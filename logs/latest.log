@@ -1,0 +1,27 @@
+[15:42:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:42:25] [Worker-Main-11/INFO]: No existing world data, creating new world
+[15:42:25] [ServerMain/INFO]: Loaded 1515 recipes
+[15:42:25] [ServerMain/INFO]: Loaded 1617 advancements
+[15:42:25] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[15:42:25] [Server thread/INFO]: Loading properties
+[15:42:25] [Server thread/INFO]: Default game type: SURVIVAL
+[15:42:25] [Server thread/INFO]: Generating keypair
+[15:42:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:42:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:42:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:42:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:42:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:42:26] [Server thread/INFO]: Preparing level "world"
+[15:42:26] [Server thread/INFO]: Selecting global world spawn...
+[15:42:28] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:42:28] [Server thread/INFO]: Preparing spawn area: 100%
+[15:42:28] [Server thread/INFO]: Time elapsed: 1948 ms
+[15:42:28] [Server thread/INFO]: Done (2.168s)! For help, type "help"
+[15:42:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:42:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:42:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:43:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
