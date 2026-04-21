@@ -32,11 +32,33 @@ echo [SERVER] Iniciando com %RAM%...
 java -Xmx%RAM% -Xms%RAM% -jar server.jar nogui
 
 echo.
-echo [GIT] Servidor desligado. Salvando progresso no GitHub...
-git add .
-git commit -m "Sincronia automatica: Host foi %RAM% em %date%"
-git push
+echo [GIT] Servidor desligado. Iniciando captura de log...
+
+:: Limpa o log antigo se existir
+if exist log_erro.txt del log_erro.txt
+
+echo --- INICIO DO LOG %date% %time% --- > log_erro.txt
+
+echo [1/3] Adicionando arquivos...
+git add . >> log_erro.txt 2>&1
+
+echo [2/3] Criando commit...
+git commit -m "Backup_Automatico_%date:/=-%" >> log_erro.txt 2>&1
+
+echo [3/3] Tentando Push (Isso pode demorar)...
+git push origin main >> log_erro.txt 2>&1
 
 echo.
-echo [OK] Tudo salvo! Ja pode fechar.
-pause
+echo ==========================================
+echo   VERIFICACAO DE ENVIO
+echo ==========================================
+if %ERRORLEVEL% NEQ 0 (
+    echo [ALERTA] O Git falhou! Abrindo log de erros...
+    start notepad log_erro.txt
+) else (
+    echo [OK] Tudo foi salvo no GitHub com sucesso!
+)
+
+echo.
+echo Pressione qualquer tecla para fechar.
+pause >nul
