@@ -1,39 +1,52 @@
-[17:48:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:48:47] [ServerMain/INFO]: Loaded 1515 recipes
-[17:48:47] [ServerMain/INFO]: Loaded 1617 advancements
-[17:48:47] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[17:48:47] [Server thread/INFO]: Loading properties
-[17:48:47] [Server thread/INFO]: Default game type: SURVIVAL
-[17:48:47] [Server thread/INFO]: Generating keypair
-[17:48:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:48:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:48:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:48:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:48:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:48:48] [Server thread/INFO]: Preparing level "world"
-[17:48:48] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:48:48] [Server thread/INFO]: Preparing spawn area: 100%
-[17:48:48] [Server thread/INFO]: Time elapsed: 45 ms
-[17:48:48] [Server thread/INFO]: Done (0.292s)! For help, type "help"
-[17:48:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:48:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:48:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:48:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:48:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:48:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:48:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:48:55] [Server thread/INFO]: lopesmathe[/127.0.0.1:52501] logged in with entity id 50 at (-42.449739008094, 67.0, -4.789115593589675)
-[17:48:55] [Server thread/INFO]: lopesmathe joined the game
-[17:49:20] [Server thread/INFO]: lopesmathe lost connection: Disconnected
-[17:49:20] [Server thread/INFO]: lopesmathe left the game
-[17:49:33] [Server thread/INFO]: Stopping the server
-[17:49:33] [Server thread/INFO]: Stopping server
-[17:49:33] [Server thread/INFO]: Saving players
-[17:49:33] [Server thread/INFO]: Saving worlds
-[17:49:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:49:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:49:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:49:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:49:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:49:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:49:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:26:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:26:28] [ServerMain/INFO]: Loaded 1515 recipes
+[18:26:28] [ServerMain/INFO]: Loaded 1617 advancements
+[18:26:28] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[18:26:28] [Server thread/INFO]: Loading properties
+[18:26:28] [Server thread/INFO]: Default game type: SURVIVAL
+[18:26:28] [Server thread/INFO]: Generating keypair
+[18:26:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:26:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:26:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:26:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:26:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:26:28] [Server thread/INFO]: Preparing level "world"
+[18:26:29] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:26:29] [Server thread/INFO]: Preparing spawn area: 100%
+[18:26:29] [Server thread/INFO]: Time elapsed: 41 ms
+[18:26:29] [Server thread/INFO]: Done (0.316s)! For help, type "help"
+[18:26:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:26:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:26:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:26:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:26:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:26:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:26:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:26:47] [Server thread/INFO]: lopesmathe[/127.0.0.1:65321] logged in with entity id 51 at (-125.35690850644664, 66.70741105415509, -74.30327270961132)
+[18:26:47] [Server thread/INFO]: lopesmathe joined the game
+[18:26:53] [Server thread/INFO]: lopesmathe lost connection: Disconnected
+[18:26:53] [Server thread/INFO]: lopesmathe left the game
+[18:27:11] [Server thread/INFO]: No player was found
+[18:27:34] [Server thread/INFO]: lopesmathe[/127.0.0.1:65364] logged in with entity id 303 at (-107.1121208368081, 71.56936971327733, -83.45406815783369)
+[18:27:34] [Server thread/INFO]: lopesmathe joined the game
+[18:27:47] [Server thread/INFO]: Unknown game mode: survive
+[18:27:47] [Server thread/INFO]: ...de survive lopesmathe<--[HERE]
+[18:27:57] [Server thread/INFO]: Unknown game mode: 1
+[18:27:57] [Server thread/INFO]: gamemode 1 lopesmathe<--[HERE]
+[18:28:01] [Server thread/INFO]: Unknown game mode: 0
+[18:28:01] [Server thread/INFO]: gamemode 0 lopesmathe<--[HERE]
+[18:28:16] [Server thread/INFO]: Set lopesmathe's game mode to Survival Mode
+[18:28:27] [Server thread/INFO]: Set lopesmathe's game mode to Creative Mode
+[18:28:39] [Server thread/INFO]: lopesmathe was killed
+[18:28:39] [Server thread/INFO]: Killed lopesmathe
+[18:28:48] [Server thread/INFO]: Stopping the server
+[18:28:49] [Server thread/INFO]: Stopping server
+[18:28:49] [Server thread/INFO]: Saving players
+[18:28:49] [Server thread/INFO]: Saving worlds
+[18:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
