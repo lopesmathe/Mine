@@ -1,52 +1,112 @@
-[18:26:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[18:26:28] [ServerMain/INFO]: Loaded 1515 recipes
-[18:26:28] [ServerMain/INFO]: Loaded 1617 advancements
-[18:26:28] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[18:26:28] [Server thread/INFO]: Loading properties
-[18:26:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:26:28] [Server thread/INFO]: Generating keypair
-[18:26:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:26:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:26:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:26:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:26:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:26:28] [Server thread/INFO]: Preparing level "world"
-[18:26:29] [Server thread/INFO]: Loading 0 persistent chunks...
-[18:26:29] [Server thread/INFO]: Preparing spawn area: 100%
-[18:26:29] [Server thread/INFO]: Time elapsed: 41 ms
-[18:26:29] [Server thread/INFO]: Done (0.316s)! For help, type "help"
-[18:26:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:26:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:26:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:26:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:26:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:26:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:26:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:26:47] [Server thread/INFO]: lopesmathe[/127.0.0.1:65321] logged in with entity id 51 at (-125.35690850644664, 66.70741105415509, -74.30327270961132)
-[18:26:47] [Server thread/INFO]: lopesmathe joined the game
-[18:26:53] [Server thread/INFO]: lopesmathe lost connection: Disconnected
-[18:26:53] [Server thread/INFO]: lopesmathe left the game
-[18:27:11] [Server thread/INFO]: No player was found
-[18:27:34] [Server thread/INFO]: lopesmathe[/127.0.0.1:65364] logged in with entity id 303 at (-107.1121208368081, 71.56936971327733, -83.45406815783369)
-[18:27:34] [Server thread/INFO]: lopesmathe joined the game
-[18:27:47] [Server thread/INFO]: Unknown game mode: survive
-[18:27:47] [Server thread/INFO]: ...de survive lopesmathe<--[HERE]
-[18:27:57] [Server thread/INFO]: Unknown game mode: 1
-[18:27:57] [Server thread/INFO]: gamemode 1 lopesmathe<--[HERE]
-[18:28:01] [Server thread/INFO]: Unknown game mode: 0
-[18:28:01] [Server thread/INFO]: gamemode 0 lopesmathe<--[HERE]
-[18:28:16] [Server thread/INFO]: Set lopesmathe's game mode to Survival Mode
-[18:28:27] [Server thread/INFO]: Set lopesmathe's game mode to Creative Mode
-[18:28:39] [Server thread/INFO]: lopesmathe was killed
-[18:28:39] [Server thread/INFO]: Killed lopesmathe
-[18:28:48] [Server thread/INFO]: Stopping the server
-[18:28:49] [Server thread/INFO]: Stopping server
-[18:28:49] [Server thread/INFO]: Saving players
-[18:28:49] [Server thread/INFO]: Saving worlds
-[18:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:18:47] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[20:18:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:18:57] [ServerMain/INFO]: Loaded 1515 recipes
+[20:18:57] [ServerMain/INFO]: Loaded 1617 advancements
+[20:18:58] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[20:18:58] [Server thread/INFO]: Loading properties
+[20:18:58] [Server thread/INFO]: Default game type: SURVIVAL
+[20:18:58] [Server thread/INFO]: Generating keypair
+[20:18:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:18:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:18:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:18:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:18:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:18:58] [Server thread/INFO]: Preparing level "world"
+[20:18:59] [Server thread/INFO]: Loading 0 persistent chunks...
+[20:18:59] [Server thread/INFO]: Preparing spawn area: 100%
+[20:18:59] [Server thread/INFO]: Time elapsed: 13 ms
+[20:18:59] [Server thread/INFO]: Done (0.479s)! For help, type "help"
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:18:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:18:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:18:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:18:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:18:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:19:51] [Server thread/INFO]: lopesmathe[/26.99.245.227:52927] logged in with entity id 33 at (-25.936318991649784, 68.15814676123665, -2.2591451689434385)
+[20:19:51] [Server thread/INFO]: lopesmathe joined the game
+[20:26:12] [Server thread/INFO]: lopesmathe lost connection: Disconnected
+[20:26:12] [Server thread/INFO]: lopesmathe left the game
+[20:26:40] [Server thread/INFO]: lopesmathe[/26.99.245.227:57741] logged in with entity id 2202 at (-282.07001831937, 68.0, 37.199273717839596)
+[20:26:40] [Server thread/INFO]: lopesmathe joined the game
+[20:27:45] [Server thread/WARN]: lopesmathe moved too quickly! -8.108159523083884,-3.6865297969422812,4.784783683234792
+[20:29:43] [Server thread/INFO]: NewBorntodie[/127.0.0.1:49424] logged in with entity id 3226 at (-45.1724375241336, 67.0, -8.503568156775799)
+[20:29:43] [Server thread/INFO]: NewBorntodie joined the game
+[20:29:49] [Server thread/INFO]: [Not Secure] <lopesmathe> eae
+[20:29:52] [Server thread/WARN]: lopesmathe moved too quickly! 9.5212651251166,-3.3656475061982007,-0.8532718026592363
+[20:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[20:29:54] [Server thread/WARN]: lopesmathe moved too quickly! 9.761534761089735,-3.065966052601979,-0.3000944143212223
+[20:29:56] [Server thread/WARN]: lopesmathe moved too quickly! 10.87763115501346,0.0,0.028157824404431153
+[20:29:59] [Server thread/WARN]: lopesmathe moved too quickly! 10.616624614118052,0.0,0.02748218315110762
+[20:30:02] [Server thread/WARN]: lopesmathe moved too quickly! 10.748486465843143,0.0,0.5384441441254353
+[20:30:04] [Server thread/WARN]: lopesmathe moved too quickly! 10.202406506819699,0.3574623927484737,2.2981051614721366
+[20:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[20:30:22] [Server thread/INFO]: [Not Secure] <lopesmathe> hi
+[20:30:26] [Server thread/INFO]: NewBorntodie fell from a high place
+[20:30:32] [Server thread/INFO]: [Not Secure] <NewBorntodie> hi
+[20:30:34] [Server thread/INFO]: lopesmathe has completed the challenge [Cover Me in Debris]
+[20:30:48] [Server thread/INFO]: lopesmathe has made the advancement [Monster Hunter]
+[20:30:53] [Server thread/INFO]: NewBorntodie has completed the challenge [Cover Me in Debris]
+[20:30:54] [Server thread/INFO]: [Not Secure] <lopesmathe> kkkk
+[20:31:00] [Server thread/INFO]: NewBorntodie has made the advancement [Monster Hunter]
+[20:31:12] [Server thread/INFO]: [Not Secure] <lopesmathe> vc ta quantos fps
+[20:31:40] [Server thread/INFO]: [Not Secure] <NewBorntodie> 60
+[20:31:53] [Server thread/INFO]: [Not Secure] <lopesmathe> 60 f ou 60 s
+[20:32:08] [Server thread/INFO]: [Not Secure] <NewBorntodie> fpd
+[20:32:25] [Server thread/INFO]: [Not Secure] <lopesmathe> f = falta (ta 60 fps no talo ou s = sobra (ta 60 fps mais ele pode estar mais ele so esta sendo limitado)
+[20:33:45] [Server thread/INFO]: NewBorntodie has made the advancement [Sneak 100]
+[20:33:56] [Server thread/INFO]: lopesmathe has made the advancement [Sneak 100]
+[20:34:11] [Server thread/INFO]: NewBorntodie was obliterated by a sonically-charged shriek
+[20:34:18] [Server thread/INFO]: [Not Secure] <NewBorntodie> ppnc
+[20:35:16] [Server thread/INFO]: NewBorntodie was squished too much
+[20:35:22] [Server thread/INFO]: NewBorntodie lost connection: Disconnected
+[20:35:22] [Server thread/INFO]: NewBorntodie left the game
+[20:36:51] [Server thread/INFO]: lopesmathe has reached the goal [Sky's the Limit]
+[20:36:59] [Server thread/INFO]: NewBorntodie[/127.0.0.1:62644] logged in with entity id 6800 at (-39.5, 67.0, -2.5)
+[20:36:59] [Server thread/INFO]: NewBorntodie joined the game
+[20:39:00] [Server thread/INFO]: NewBorntodie was obliterated by a sonically-charged shriek
+[20:39:16] [Server thread/INFO]: NewBorntodie has reached the goal [Sky's the Limit]
+[20:39:20] [Server thread/INFO]: [Not Secure] <NewBorntodie> reiniciaaa
+[20:39:39] [Server thread/INFO]: [Not Secure] <lopesmathe> vc ta com leg
+[20:39:44] [Server thread/INFO]: [Not Secure] <lopesmathe> vc nao era para ter
+[20:40:13] [Server thread/INFO]: [Not Secure] <lopesmathe> sabe como colcoar codigos no game ?
+[20:40:44] [Server thread/INFO]: [Not Secure] <NewBorntodie> eu to?
+[20:40:47] [Server thread/INFO]: [Not Secure] <lopesmathe> oq
+[20:40:53] [Server thread/INFO]: [Not Secure] <NewBorntodie> com alg
+[20:40:56] [Server thread/INFO]: [Not Secure] <lopesmathe> nn
+[20:41:01] [Server thread/WARN]: NewBorntodie moved too quickly! 12.769042133389235,-2.7655025868488963,-12.089222414654046
+[20:41:57] [Server thread/INFO]: [Not Secure] <NewBorntodie> que save top
+[20:42:04] [Server thread/INFO]: [Not Secure] <lopesmathe> save ?
+[20:42:06] [Server thread/INFO]: [Not Secure] <lopesmathe> mundo ?
+[20:42:08] [Server thread/INFO]: [Not Secure] <NewBorntodie> seed
+[20:42:16] [Server thread/INFO]: [Not Secure] <lopesmathe> vc é o host
+[20:42:24] [Server thread/INFO]: [Not Secure] <lopesmathe> so vc pode colcoar comandos
+[20:42:33] [Server thread/INFO]: [Not Secure] <lopesmathe> so q vc tem q fazer isso no cmd
+[20:42:43] [Server thread/INFO]: [Not Secure] <NewBorntodie> qual comando ce quer
+[20:42:55] [Server thread/INFO]: [Not Secure] <lopesmathe> a/ seed
+[20:43:01] [Server thread/INFO]: [Not Secure] <lopesmathe> a/seed
+[20:43:14] [Server thread/INFO]: [Not Secure] <lopesmathe> fez ?
+[20:43:49] [Server thread/INFO]: [Not Secure] <lopesmathe> paulo do tdah
+[20:43:55] [Server thread/INFO]: NewBorntodie fell from a high place
+[20:43:57] [Server thread/INFO]: [Not Secure] <lopesmathe> mds
+[20:43:58] [Server thread/INFO]: [Not Secure] <lopesmathe> kkkkkkkkkkk
+[20:44:05] [Server thread/INFO]: [Not Secure] <lopesmathe> eu to no criativo
+[20:44:09] [Server thread/INFO]: [Not Secure] <lopesmathe> n tem como eu morrer
+[20:44:50] [Server thread/INFO]: [Not Secure] <lopesmathe> vc ainda ta ai?
+[20:45:02] [Server thread/INFO]: [Not Secure] <NewBorntodie> nao consigo comandos
+[20:45:11] [Server thread/INFO]: [Not Secure] <lopesmathe> nao é no mine
+[20:45:15] [Server thread/INFO]: [Not Secure] <lopesmathe> é no cmd
+[20:45:25] [Server thread/INFO]: [Not Secure] <lopesmathe> la onde vc inicou o serv
+[20:45:32] [Server thread/INFO]: Stopping the server
+[20:45:32] [Server thread/INFO]: Stopping server
+[20:45:32] [Server thread/INFO]: Saving players
+[20:45:32] [Server thread/INFO]: lopesmathe lost connection: Server closed
+[20:45:32] [Server thread/INFO]: lopesmathe left the game
+[20:45:32] [Server thread/INFO]: Saving worlds
+[20:45:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:45:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:45:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:45:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:45:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:45:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:45:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
