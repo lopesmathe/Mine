@@ -1,152 +1,454 @@
-[00:00:03] [Server thread/INFO]: lopesmathe (3c90268f-e5f2-3b22-9ee6-349d51ccdaa0) lost connection: Disconnected
-[00:03:43] [DH-World Gen Thread[2]/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
-[00:03:51] [DH-World Gen Thread[2]/ERROR]: Block-attached entity at invalid position: null
-[00:03:51] [DH-World Gen Thread[2]/ERROR]: Block-attached entity at invalid position: null
-[00:03:51] [DH-World Gen Thread[2]/ERROR]: Block-attached entity at invalid position: null
-[00:03:53] [Worker-Main-4/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
-[00:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6076ms or 121 ticks behind
-[00:03:57] [Server thread/WARN]: NewBorntodie moved too quickly! -8.115069235238678,0.41999998688697815,6.321143656297409
-[00:04:12] [DH-World Gen Thread[1]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3709ms or 74 ticks behind
-[00:07:50] [Server thread/WARN]: NewBorntodie moved too quickly! -2.0908783545479634,-8.0,-5.6897448888692
-[00:13:54] [Server thread/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/large_floating_island. Defined mappings: [1.21-1.21.8->mvs:houses/large_floating_island, 1.21.9-1.21.11->mvs:1_21_9/houses/large_floating_island]
-[00:20:07] [Server thread/INFO]: NewBorntodie has made the advancement [(Optional) Fluid Tanks Upgrade]
-[00:21:10] [Server thread/INFO]: NewBorntodie has made the advancement [Not Today, Thank You]
-[00:21:13] [Server thread/INFO]: NewBorntodie has made the advancement [Custom Backpacks]
-[00:21:36] [DH-World Gen Thread[2]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:23:48] [DH-World Gen Thread[5]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:24:15] [DH-World Gen Thread[5]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:25:05] [Server thread/INFO]: NewBorntodie has made the advancement [Isn't It Iron Pick]
-[00:25:22] [DH-World Gen Thread[1]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:27:37] [DH-World Gen Thread[4]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:36:24] [Server thread/INFO]: NewBorntodie has made the advancement [Iron Tier Upgrade]
-[00:36:36] [Server thread/INFO]: NewBorntodie has made the advancement [Base for upgrades]
-[00:48:09] [DH-World Gen Thread[4]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:50:20] [DH-World Gen Thread[5]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:54:07] [Server thread/INFO]: NewBorntodie fell from a high place
-[00:54:07] [Server thread/INFO]: Created new backpack backup file for NewBorntodie with unique ID travelersbackpack.squid_02.05.2026-00.54.07.dat
-[00:54:40] [DH-World Gen Thread[1]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03278340493785156d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:54:42] [DH-World Gen Thread[3]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03278340493785156d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:55:20] [Server thread/INFO]: NewBorntodie drowned
-[00:55:20] [DH-World Gen Thread[4]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03278340493785156d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:57:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4362ms or 87 ticks behind
-[00:57:18] [DH-World Gen Thread[4]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:0.699999988079071d,id:"minecraft:movement_speed"},{base:0.08d,id:"forge:entity_gravity"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.08971710339176343d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.0d,id:"forge:step_height_addition"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:step_height_addition; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
-[00:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5531ms or 110 ticks behind
-[00:59:13] [DH-World Gen Thread[4]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[00:59:29] [DH-World Gen Thread[4]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:00:10] [DH-World Gen Thread[0]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:00:56] [DH-World Gen Thread[1]/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
-[01:00:59] [DH-World Gen Thread[1]/ERROR]: Block-attached entity at invalid position: null
-[01:00:59] [DH-World Gen Thread[1]/ERROR]: Block-attached entity at invalid position: null
-[01:00:59] [DH-World Gen Thread[1]/ERROR]: Block-attached entity at invalid position: null
-[01:02:34] [DH-World Gen Thread[0]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03278340493785156d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:06:12] [Server thread/INFO]: NewBorntodie has made the advancement [Suit Up]
-[01:08:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
-[01:09:17] [DH-World Gen Thread[1]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:10:32] [DH-World Gen Thread[5]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03278340493785156d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:12:06] [DH-World Gen Thread[2]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:12:40] [Server thread/INFO]: NewBorntodie has made the advancement [Gold Tier Upgrade]
-[01:13:17] [DH-World Gen Thread[1]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:15:25] [DH-World Gen Thread[2]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:16:39] [DH-World Gen Thread[3]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:18:05] [spark-java-sampler-3-thread-6/WARN]: Timed out waiting for world statistics
-[01:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6876ms or 137 ticks behind
-[01:18:06] [Server thread/WARN]: NewBorntodie moved too quickly! 8.530831487659839,0.41999998688697815,-5.37086811830423
-[01:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5097ms or 101 ticks behind
-[01:27:33] [Server thread/WARN]: NewBorntodie moved too quickly! -8.801165234356063,0.0,-4.882409035042826
-[01:28:18] [Server thread/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/jacaranda_well_1. Defined mappings: [1.21-1.21.8->mbs:jacaranda_well_1, 1.21.9-1.21.11->mbs:1_21_9/jacaranda_well_1]
-[01:31:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4821ms or 96 ticks behind
-[01:31:44] [DH-World Gen Thread[5]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:0.699999988079071d,id:"minecraft:movement_speed"},{base:0.08d,id:"forge:entity_gravity"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.08971710339176343d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.0d,id:"forge:step_height_addition"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:step_height_addition; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
-[01:32:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5950ms or 119 ticks behind
-[01:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
-[01:36:16] [DH-World Gen Thread[3]/ERROR]: Block-attached entity at invalid position: null
-[01:36:16] [DH-World Gen Thread[3]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-:
-  Failed to decode value '[{base:0.0d,id:"minecraft:generic.armor"},{base:0.0d,id:"minecraft:generic.armor_toughness"},{base:0.699999988079071d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.armor_toughness; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.armor
-  Failed to decode value '[{base:0.0d,id:"minecraft:generic.armor"},{base:0.0d,id:"minecraft:generic.armor_toughness"},{base:0.699999988079071d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.armor_toughness; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.armor
-  Failed to decode value '[{base:0.0d,id:"minecraft:generic.armor"},{base:0.0d,id:"minecraft:generic.armor_toughness"},{base:0.699999988079071d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.armor_toughness; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.armor
-  Failed to decode value '[{base:0.0d,id:"minecraft:generic.armor"},{base:0.0d,id:"minecraft:generic.armor_toughness"},{base:0.699999988079071d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.armor_toughness; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.armor
-[01:36:16] [Server thread/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_4/small_tower_well. Defined mappings: [1.21-1.21.4->mvs:1_21_4/small_tower_well, 1.21.5-1.21.8->mvs:1_21_5/small_tower_well, 1.21.9-1.21.11->mvs:1_21_11/small_tower_well]
-[01:39:44] [DH-World Gen Thread[4]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:45:55] [DH-World Gen Thread[4]/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
-: Failed to decode value '[{base:16.0d,id:"minecraft:generic.follow_range",modifiers:[{amount:-0.03497669197144393d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.7d,id:"minecraft:generic.movement_speed"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.movement_speed; Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: minecraft:generic.follow_range
-[01:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8406ms or 168 ticks behind
-[01:50:07] [Server thread/INFO]: NewBorntodie lost connection: Disconnected
-[01:50:07] [Server thread/INFO]: NewBorntodie left the game
-[01:50:07] [Netty NIO IO #2/INFO]: Player [NewBorntodie] disconnected.
-[01:50:07] [Server thread/INFO]: [voicechat] Disconnecting client NewBorntodie
-[01:51:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:51:34] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[01:51:34] [Server thread/INFO]: STOP<--[HERE]
-[01:52:26] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[01:52:26] [Server thread/INFO]: STOP<--[HERE]
-[01:52:42] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[01:52:42] [Server thread/INFO]: STOP GAME<--[HERE]
-[01:52:44] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[01:52:44] [Server thread/INFO]: STOOOOP<--[HERE]
-[01:53:12] [Server thread/INFO]: Stopping the server
-[01:53:12] [Server thread/INFO]: Stopping server
-[01:53:12] [Server thread/INFO]: Saving players
-[01:53:12] [Server thread/INFO]: Saving worlds
-[01:53:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:53:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:53:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:53:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:53:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:53:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:53:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:53:12] [Server thread/INFO]: Closing world gen queue
-[01:53:12] [Server thread/INFO]: Closing WorldGenerationQueue...
-[01:53:12] [Server thread/INFO]: Shutting down world generator thread pool...
-[01:53:12] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
-[01:53:12] [Server thread/INFO]: [BatchGenerator] shutting down...
-[01:53:12] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
-[01:53:12] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[01:53:12] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
-[01:53:12] [Server thread/INFO]: Closing world gen queue
-[01:53:12] [Server thread/INFO]: Closing WorldGenerationQueue...
-[01:53:12] [Server thread/INFO]: Shutting down world generator thread pool...
-[01:53:12] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
-[01:53:12] [Server thread/INFO]: [BatchGenerator] shutting down...
-[01:53:12] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
-[01:53:12] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[01:53:12] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
-[01:53:12] [Server thread/INFO]: Closing world gen queue
-[01:53:12] [Server thread/INFO]: Closing WorldGenerationQueue...
-[01:53:12] [Server thread/INFO]: Shutting down world generator thread pool...
-[01:53:12] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
-[01:53:12] [Server thread/INFO]: [BatchGenerator] shutting down...
-[01:53:12] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
-[01:53:12] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[01:53:12] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
-[01:53:12] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
-[01:53:12] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
-[01:53:12] [Server thread/INFO]: Shutting down PriorityTaskPicker thread pool...
-[01:53:12] [Server thread/INFO]: Closing all [3] database connections...
-[01:53:12] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\the_end\data\DistantHorizons.sqlite]
-[01:53:12] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\overworld\data\DistantHorizons.sqlite]
-[01:53:12] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\the_nether\data\DistantHorizons.sqlite]
+[11:42:10] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.2
+[11:42:10] [main/INFO]: Mappings not present!
+[11:42:12] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 26.1.4 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[11:42:12] [main/INFO]: Loading 137 mods:
+	- appleskin 3.0.9+mc26.1
+	- artifacts 15.0.0
+	   |-- cardinal-components-base 8.0.0
+	   |-- cardinal-components-entity 8.0.0
+	   \-- expandability 14.0.0
+	- balm 26.1.2.5
+	   \-- kuma_api 26.1.2.2
+	- biomesoplenty 26.1.2.0.5
+	   |-- com_google_code_findbugs_jsr305 3.0.2
+	   \-- net_jodah_typetools 0.6.3
+	- chargedcharms 2.1.1.4
+	   \-- whitenoise 2.2.0
+	        |-- com_electronwill_night-config_core 3.8.4
+	        \-- com_electronwill_night-config_toml 3.8.4
+	- chunky 1.4.58
+	- cloth-config 26.1.154
+	   \-- cloth-basic-math 0.6.1
+	- clumps 26.1.2.1
+	- collective 8.22
+	- constructionwand 2.1.2
+	   \-- dev_smto_simpleconfig 2.4.3
+	- creativecore 2.14.14
+	   \-- net_neoforged_bus 7.2.0
+	- cristellib 3.1.3
+	   \-- blue_endless_jankson 1.2.3
+	- distanthorizons 3.0.2-b
+	   |-- fabric-api-base 2.0.3+ece0632339
+	   |-- fabric-biome-api-v1 18.0.4+35c80edc39
+	   |-- fabric-block-api-v1 3.0.2+ec56b60139
+	   |-- fabric-block-getter-api-v2 2.0.6+ec56b60139
+	   |-- fabric-client-gametest-api-v1 5.0.14+9c21967139
+	   |-- fabric-command-api-v2 3.0.5+e2bdee7839
+	   |-- fabric-crash-report-info-v1 1.0.3+9f78a5a839
+	   |-- fabric-creative-tab-api-v1 5.0.10+d871b99e39
+	   |-- fabric-debug-api-v1 1.0.1+c792624d39
+	   |-- fabric-entity-events-v1 5.0.2+e2bdee7839
+	   |-- fabric-events-interaction-v0 5.1.10+c82f046139
+	   |-- fabric-game-rule-api-v1 4.0.5+d871b99e39
+	   |-- fabric-gametest-api-v1 4.0.13+00a1fba639
+	   |-- fabric-key-mapping-api-v1 2.0.4+e2bdee7839
+	   |-- fabric-loot-api-v3 3.0.11+00a1fba639
+	   |-- fabric-menu-api-v1 2.0.12+d871b99e39
+	   |-- fabric-message-api-v1 7.0.5+dae8ce3e39
+	   |-- fabric-model-loading-api-v1 8.0.3+c80601bb39
+	   |-- fabric-networking-api-v1 6.3.0+50a808ce39
+	   |-- fabric-particles-v1 5.0.14+b61fef4339
+	   |-- fabric-registry-sync-v0 7.0.12+b61fef4339
+	   |-- fabric-renderer-api-v1 13.0.0+c80601bb39
+	   |-- fabric-renderer-indigo 8.0.2+a6be36ef39
+	   |-- fabric-rendering-fluids-v1 6.0.1+d871b99e39
+	   |-- fabric-rendering-v1 23.0.4+c7e428fd39
+	   |-- fabric-resource-conditions-api-v1 6.0.5+00a1fba639
+	   |-- fabric-resource-loader-v0 3.3.16+4fc5413f39
+	   |-- fabric-resource-loader-v1 2.0.9+d871b99e39
+	   |-- fabric-screen-api-v1 5.0.1+d871b99e39
+	   |-- fabric-serialization-api-v1 2.0.3+11a26f3139
+	   |-- fabric-sound-api-v1 2.0.4+11a26f3139
+	   |-- fabric-tag-api-v1 2.0.9+11a26f3139
+	   \-- fabric-transitive-access-wideners-v1 8.0.11+d871b99e39
+	- elevatorid 26.1.1-1.16.3
+	- entityculling 1.10.1
+	   |-- transition 1.0.17
+	   \-- trender 1.0.12
+	- explorerscompass 26.1-2.5.1-fabric
+	- fabric-api 0.147.0+26.1.2
+	   |-- fabric-api-lookup-api-v1 2.0.11+d5a053b64c
+	   |-- fabric-content-registries-v0 11.0.13+d871b99e4c
+	   |-- fabric-convention-tags-v2 4.5.0+4e71cda84c
+	   |-- fabric-data-attachment-api-v1 2.2.4+d602a8964c
+	   |-- fabric-data-generation-api-v1 24.0.19+35c80edc4c
+	   |-- fabric-dimensions-v1 5.1.5+9cbf5da54c
+	   |-- fabric-item-api-v1 14.1.1+73d134684c
+	   |-- fabric-key-mapping-api-v1 2.0.4+e2bdee784c
+	   |-- fabric-lifecycle-events-v1 4.1.0+6d50a0854c
+	   |-- fabric-model-loading-api-v1 8.0.5+c80601bb4c
+	   |-- fabric-object-builder-api-v1 23.0.14+b95dd56e4c
+	   |-- fabric-recipe-api-v1 9.0.14+be4b75ae4c
+	   |-- fabric-renderer-api-v1 13.0.2+c80601bb4c
+	   |-- fabric-renderer-indigo 8.0.4+a6be36ef4c
+	   |-- fabric-rendering-v1 23.0.6+08c26e364c
+	   |-- fabric-screen-api-v1 5.0.1+d871b99e4c
+	   |-- fabric-sound-api-v1 2.0.4+11a26f314c
+	   \-- fabric-transfer-api-v1 8.0.5+357ea7334c
+	- fabric-language-kotlin 1.13.11+kotlin.2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.3.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.32.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.11.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.11.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.11.0
+	- fabricloader 0.19.2
+	   \-- mixinextras 0.5.4
+	- fallingtree 25
+	- farmersdelight 26.1-3.6.4+refabricated
+	- ferritecore 9.0.0
+	- forgeconfigapiport 26.1.4
+	- ftblibrary 26.1.2.2
+	   \-- de_marhali_json5-java 3.0.0
+	- ftbteams 26.1.2.3
+	- ftbultimine 26.1.2.3
+	- glitchcore 26.1.2.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- java 25
+	- jei 29.5.0.28
+	- krypton 0.3.0
+	   \-- com_velocitypowered_velocity-native 3.4.0-SNAPSHOT
+	- maxhealthfix 26.1.2.1
+	- mbs 1.0.4
+	- mes 2.0.0
+	- minecraft 26.1.2
+	- mixintrace 1.0
+	- mmv 2.0.0
+	- moogs_structures 2.0.1-26.1.0-26.1.2-fabric
+	- mvs 5.0.9
+	- naturescompass 26.1-2.5.0-fabric
+	- prickle 26.1.2.2
+	- rpg_attribute_system 3.1.2
+	- shogi 26.1.2.3
+	   \-- shogi_api 26.1.2.3
+	- smallernetherportals 4.0
+	- spark 1.10.172
+	   \-- fabric-permissions-api-v0 0.7.0
+	- t_and_t 1.13.11
+	- terrablender 26.1.2.0.1
+	- travelersbackpack 11.2.2
+	- trinkets_updated 4.0.0-alpha.9+26.1
+	   \-- yumi_mc_core 1.0.0+26.1
+	        |-- yumi_commons_collections 2.0.0
+	        |-- yumi_commons_core 2.0.0
+	        \-- yumi_commons_event 2.0.0
+	- underground_villages 11.0.0
+	- voicechat 2.6.16+26.1.2
+	   |-- fabric-key-mapping-api-v1 2.0.4+e2bdee7847
+	   |-- fabric-rendering-v1 23.0.4+10de3da347
+	   \-- voicechat_api 2.6.13
+	- waystones 26.1.2.2
+	- xaerominimap 25.3.11
+	   \-- xaerolib 1.1.13
+	- xaeroworldmap 1.40.14
+	- yet_another_config_lib_v3 3.9.3+26.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+[11:42:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Servidor_Mine/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[11:42:18] [main/INFO]: Compatibility level set to JAVA_21
+[11:42:18] [main/INFO]: Compatibility level set to JAVA_25
+[11:42:18] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'chargedcharms.refmap.json' for chargedcharms.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'mixintrace-refmap.json' for mixintrace.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'shogi.refmap.json' for shogi.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'shogi.refmap.json' for shogi.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:42:18] [main/WARN]: Error loading class: net/minecraft/client/gui/Gui (java.lang.ClassNotFoundException: net/minecraft/client/gui/Gui)
+[11:42:18] [main/WARN]: @Mixin target net.minecraft.client.gui.Gui was not found collective_fabric.mixins.json:GuiMixin from mod collective
+[11:42:18] [main/WARN]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.ClassNotFoundException: net/minecraft/client/renderer/GameRenderer)
+[11:42:18] [main/WARN]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found creativecore.fabric.mixins.json:GameRendererMixin from mod creativecore
+[11:42:19] [main/WARN]: Error loading class: net/minecraft/client/gui/screens/recipebook/GhostSlots (java.lang.ClassNotFoundException: net/minecraft/client/gui/screens/recipebook/GhostSlots)
+[11:42:19] [main/WARN]: @Mixin target net.minecraft.client.gui.screens.recipebook.GhostSlots was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[11:42:19] [main/WARN]: Error loading class: net/minecraft/client/gui/GuiGraphicsExtractor (java.lang.ClassNotFoundException: net/minecraft/client/gui/GuiGraphicsExtractor)
+[11:42:19] [main/WARN]: @Mixin target net.minecraft.client.gui.GuiGraphicsExtractor was not found farmersdelight.mixins.json:refabricated.GuiGraphicsExtractorAccessor from mod farmersdelight
+[11:42:19] [main/WARN]: Error loading class: net/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen (java.lang.ClassNotFoundException: net/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen)
+[11:42:19] [main/WARN]: @Mixin target net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen was not found trinkets.mixins.json:client.accessor.CreativeModeInventoryScreenAccessor from mod trinkets_updated
+[11:42:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[11:42:28] [main/ERROR]: Failed to instantiate proxy
+java.lang.RuntimeException: Failed to instantiate mod proxy net.blay09.mods.balm.fabric.platform.compatibility.permissions.internal.FabricPermissionsAPIIntegration
+	at knot//net.blay09.mods.balm.platform.internal.ModProxyImpl.lambda$with$0(ModProxyImpl.java:36)
+	at knot//net.blay09.mods.balm.platform.internal.ModProxyImpl.build(ModProxyImpl.java:77)
+	at knot//net.blay09.mods.balm.platform.internal.ModProxyImpl$1.get(ModProxyImpl.java:94)
+	at knot//net.blay09.mods.balm.fabric.platform.runtime.internal.FabricBalmRuntime.getPermissions(FabricBalmRuntime.java:128)
+	at knot//net.blay09.mods.balm.platform.runtime.internal.BalmRuntime.initializeModule(BalmRuntime.java:103)
+	at knot//net.blay09.mods.balm.platform.runtime.internal.CommonBalmRuntime.registerModule(CommonBalmRuntime.java:69)
+	at knot//net.blay09.mods.balm.platform.runtime.internal.CommonBalmRuntime.initializeRuntime(CommonBalmRuntime.java:93)
+	at knot//net.blay09.mods.balm.fabric.internal.FabricBalm.onInitialize(FabricBalm.java:48)
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:405)
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63)
+	at knot//net.minecraft.server.Main.main(Main.java:111)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69)
+Caused by: java.lang.ClassNotFoundException: net.blay09.mods.balm.fabric.platform.compatibility.permissions.internal.FabricPermissionsAPIIntegration
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:239)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/java.lang.Class.forName(Class.java:458)
+	at knot//net.blay09.mods.balm.platform.internal.ModProxyImpl.lambda$with$0(ModProxyImpl.java:34)
+	... 15 more
+[11:42:28] [main/INFO]: Loading Collective version 8.22.
+[11:42:28] [main/INFO]: ConstructionWand says hello - may the odds be ever in your favor.
+[11:42:29] [main/INFO]: ExpandAbility here, who dis?
+[11:42:29] [main/INFO]: Loaded config farmersdelight-common.json
+[11:42:30] [main/INFO]: Compression will use Java, encryption will use Java
+[11:42:30] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[11:42:30] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[11:42:30] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[11:42:30] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[11:42:30] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[11:42:30] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[11:42:30] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[11:42:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[11:42:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[11:42:30] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[11:42:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[11:42:30] [main/INFO]: [voicechat] Compatibility version 20
+[11:42:31] [main/INFO]: [voicechat] Loading plugins
+[11:42:31] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[11:42:31] [main/INFO]: [voicechat] Initializing plugins
+[11:42:31] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[11:42:31] [main/INFO]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
+[11:42:31] [main/INFO]: Running library validation...
+[11:42:31] [main/INFO]: Distant Horizons, Version: 3.0.2-b
+[11:42:31] [main/INFO]: Registering Fabric Server Events
+[11:42:31] [main/INFO]: Skipping mod compatibility accessor for: [starlight]
+[11:42:31] [main/INFO]: Skipping mod compatibility accessor for: [optifine]
+[11:42:31] [main/INFO]: Skipping mod compatibility accessor for: [bclib]
+[11:42:31] [main/INFO]: Skipping mod compatibility accessor for: [c2me]
+[11:42:31] [main/INFO]: Skipping mod compatibility accessor for: [iris]
+[11:42:31] [main/INFO]: Distant Horizons server Initialized, adding event subscribers...
+[11:42:31] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[11:42:31] [main/INFO]: Registering common data for channel xaerolib:main!
+[11:42:31] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[11:42:31] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[11:42:31] [main/INFO]: Loading XaeroLib common 1/2!
+[11:42:31] [main/INFO]: Loading XaeroLib server 1/2!
+[11:42:31] [main/INFO]: Registering common data for channel xaerominimap:main!
+[11:42:31] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[11:42:31] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[11:42:31] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[11:42:31] [main/INFO]: Registering common data for channel xaeroworldmap:main!
+[11:42:31] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
+[11:42:31] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
+[11:42:31] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[11:42:31] [main/INFO]: Initializing mods (entrypoint yumi:init)...
+[11:42:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_5/big_pale_house_1. Defined mappings: [1.21-1.21.4->mbs:big_pale_house_1, 1.21.5-1.21.11->mbs:1_21_5/big_pale_house_1]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cartographer_tower/base. Defined mappings: [1.21-1.21.8->mvs:cartographer_tower/base, 1.21.9-1.21.11->mvs:1_21_9/cartographer_tower/base]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/base/bottom. Defined mappings: [1.21-1.21.8->mvs:cathedral/base/bottom, 1.21.9-1.21.11->mvs:1_21_9/cathedral/base/bottom]
+[11:42:32] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/dead_forest_well. Defined mappings: [1.21-1.21.8->mbs:dead_forest_well, 1.21.9-1.21.11->mbs:1_21_9/dead_forest_well]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/corridors/corridor_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/corridors/corridor_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/corridors/corridor_1]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/start_corridors/corridor_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/start_corridors/corridor_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/start_corridors/corridor_1]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/corridors/corridor_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/corridors/corridor_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/corridors/corridor_2]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/start_corridors/corridor_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/start_corridors/corridor_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/start_corridors/corridor_2]
+[11:42:32] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/dead_house_2. Defined mappings: [1.21-1.21.8->mbs:dead_house_2, 1.21.9-1.21.11->mbs:1_21_9/dead_house_2]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/corridors/corridor_3. Defined mappings: [1.21-1.21.8->mvs:cathedral/corridors/corridor_3, 1.21.9-1.21.11->mvs:1_21_9/cathedral/corridors/corridor_3]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/start_corridors/corridor_3. Defined mappings: [1.21-1.21.8->mvs:cathedral/start_corridors/corridor_3, 1.21.9-1.21.11->mvs:1_21_9/cathedral/start_corridors/corridor_3]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/corridors/corridor_4. Defined mappings: [1.21-1.21.8->mvs:cathedral/corridors/corridor_4, 1.21.9-1.21.11->mvs:1_21_9/cathedral/corridors/corridor_4]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/start_corridors/corridor_4. Defined mappings: [1.21-1.21.8->mvs:cathedral/start_corridors/corridor_4, 1.21.9-1.21.11->mvs:1_21_9/cathedral/start_corridors/corridor_4]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/corner_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/corner_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/corner_1]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/base/base. Defined mappings: [1.21-1.21.8->mvs:cathedral/base/base, 1.21.9-1.21.11->mvs:1_21_9/cathedral/base/base]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/corner_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/corner_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/corner_2]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/corner_3. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/corner_3, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/corner_3]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/dead_wood_lamp. Defined mappings: [1.21-1.21.8->mbs:dead_wood_lamp, 1.21.9-1.21.11->mbs:1_21_9/dead_wood_lamp]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/corner_4. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/corner_4, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/corner_4]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/dead_wood_smiths. Defined mappings: [1.21-1.21.8->mbs:dead_wood_smiths, 1.21.9-1.21.11->mbs:1_21_9/dead_wood_smiths]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/dead_end_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/dead_end_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/dead_end_2]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/desert_house_2. Defined mappings: [1.21-1.21.8->mbs:desert_house_2, 1.21.9-1.21.11->mbs:1_21_9/desert_house_2]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/staircase_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/staircase_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/staircase_1]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/staircase_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/staircase_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/staircase_2]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/empyreal_well. Defined mappings: [1.21-1.21.8->mbs:empyreal_well, 1.21.9-1.21.11->mbs:1_21_9/empyreal_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/fir_well. Defined mappings: [1.21-1.21.8->mbs:fir_well, 1.21.9-1.21.11->mbs:1_21_9/fir_well]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/three_way_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/three_way_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/three_way_1]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/hell_well. Defined mappings: [1.21-1.21.8->mbs:hell_well, 1.21.9-1.21.11->mbs:1_21_9/hell_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/azelea_house. Defined mappings: [1.21-1.21.8->mvs:houses/azelea_house, 1.21.9-1.21.11->mvs:1_21_9/houses/azelea_house]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/three_way_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/three_way_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/three_way_2]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/three_way_3. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/three_way_3, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/three_way_3]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/desert_house. Defined mappings: [1.21-1.21.8->mvs:houses/desert_house, 1.21.9-1.21.11->mvs:1_21_9/houses/desert_house]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/large_floating_island. Defined mappings: [1.21-1.21.8->mvs:houses/large_floating_island, 1.21.9-1.21.11->mvs:1_21_9/houses/large_floating_island]
+[11:42:32] [Worker-Main-11/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/large_warped_tower. Defined mappings: [1.21-1.21.8->mvs:houses/large_warped_tower, 1.21.9-1.21.11->mvs:1_21_9/houses/large_warped_tower]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/jacaranda_well_1. Defined mappings: [1.21-1.21.8->mbs:jacaranda_well_1, 1.21.9-1.21.11->mbs:1_21_9/jacaranda_well_1]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/jungle_tower/base. Defined mappings: [1.21-1.21.8->mvs:jungle_tower/base, 1.21.9-1.21.11->mvs:1_21_9/jungle_tower/base]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/lonely_well. Defined mappings: [1.21-1.21.8->mbs:lonely_well, 1.21.9-1.21.11->mbs:1_21_9/lonely_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/magic_well. Defined mappings: [1.21-1.21.8->mbs:magic_well, 1.21.9-1.21.11->mbs:1_21_9/magic_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/mahogany_well_1. Defined mappings: [1.21-1.21.8->mbs:mahogany_well_1, 1.21.9-1.21.11->mbs:1_21_9/mahogany_well_1]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/maple_well. Defined mappings: [1.21-1.21.8->mbs:maple_well, 1.21.9-1.21.11->mbs:1_21_9/maple_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/mineshaft/intersection_10. Defined mappings: [1.21-1.21.8->mvs:mineshaft/intersection_10, 1.21.9-1.21.11->mvs:1_21_9/mineshaft/intersection_10]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/mineshaft/entrance. Defined mappings: [1.21-1.21.8->mvs:mineshaft/entrance, 1.21.9-1.21.11->mvs:1_21_9/mineshaft/entrance]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/nature/big_oak_tree. Defined mappings: [1.21-1.21.8->mvs:nature/big_oak_tree, 1.21.9-1.21.11->mvs:1_21_9/nature/big_oak_tree]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/gallows. Defined mappings: [1.21-1.21.8->mvs:gallows, 1.21.9-1.21.11->mvs:1_21_9/gallows]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/small_pillager_tower. Defined mappings: [1.21-1.21.8->mvs:small_pillager_tower, 1.21.9-1.21.11->mvs:1_21_9/small_pillager_tower]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/small_ship. Defined mappings: [1.21-1.21.8->mvs:small_ship, 1.21.9-1.21.11->mvs:1_21_9/small_ship]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/other_decoration/desert_pump. Defined mappings: [1.21-1.21.8->mvs:other_decoration/desert_pump, 1.21.9-1.21.11->mvs:1_21_9/other_decoration/desert_pump]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/pine_well. Defined mappings: [1.21-1.21.8->mbs:pine_well, 1.21.9-1.21.11->mbs:1_21_9/pine_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/plainsandgrass_house_3. Defined mappings: [1.21-1.21.8->mbs:plainsandgrass_house_3, 1.21.9-1.21.11->mbs:1_21_9/plainsandgrass_house_3]
+[11:42:32] [Worker-Main-9/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/ruins/ruined_beacon. Defined mappings: [1.21-1.21.8->mvs:ruins/ruined_beacon, 1.21.9-1.21.11->mvs:1_21_9/ruins/ruined_beacon]
+[11:42:32] [Worker-Main-5/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mbs:1_21_9/umbran_well. Defined mappings: [1.21-1.21.8->mbs:umbran_well, 1.21.9-1.21.11->mbs:1_21_9/umbran_well]
+[11:42:32] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/small_well. Defined mappings: [1.21-1.21.8->mvs:well/small_well, 1.21.9-1.21.11->mvs:1_21_9/well/small_well]
+[11:42:32] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/acacia_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/acacia_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/acacia_well]
+[11:42:32] [Worker-Main-8/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/rare_well/rare_well_upper. Defined mappings: [1.21-1.21.8->mvs:well/rare_well/rare_well_upper, 1.21.9-1.21.11->mvs:1_21_9/well/rare_well/rare_well_upper]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/jungle_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/jungle_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/jungle_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/mushroom_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/mushroom_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/mushroom_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/nether_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/nether_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/nether_well]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/rocky_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/rocky_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/rocky_well]
+[11:42:32] [Worker-Main-3/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/birch_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/birch_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/birch_well]
+[11:42:32] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/oak_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/oak_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/oak_well]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/snowy_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/snowy_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/snowy_well]
+[11:42:32] [Worker-Main-3/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/dark_oak_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/dark_oak_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/dark_oak_well]
+[11:42:32] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/spruce_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/spruce_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/spruce_well]
+[11:42:32] [Worker-Main-8/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/small_copper_well. Defined mappings: [1.21-1.21.8->mvs:well/small_copper_well, 1.21.9-1.21.11->mvs:1_21_9/well/small_copper_well]
+[11:42:32] [Worker-Main-3/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/desert_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/desert_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/desert_well]
+[11:42:32] [Worker-Main-8/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_4/small_tower_well. Defined mappings: [1.21-1.21.4->mvs:1_21_4/small_tower_well, 1.21.5-1.21.8->mvs:1_21_5/small_tower_well, 1.21.9-1.21.11->mvs:1_21_11/small_tower_well]
+[11:42:32] [Worker-Main-3/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/end_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/end_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/end_well]
+[11:42:33] [main/INFO]: Loaded 2431 recipes
+[11:42:33] [main/INFO]: Loaded 2436 advancements
+[11:42:34] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[11:42:34] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[11:42:34] [main/INFO]: Applied 483 biome modifications to 123 of 134 new biomes in 87.43 ms
+[11:42:34] [Server thread/INFO]: Initialising config for [DistantHorizons]
+[11:42:34] [Server thread/INFO]: [DistantHorizons] Config initialised
+[11:42:34] [Server thread/INFO]: Dimension ignoring disabled, DH will render all dimensions.
+[11:42:34] [Server thread/INFO]: Applying config to loggers
+[11:42:34] [Server thread/INFO]: Garbage collectors: [G1 Young Generation, G1 Concurrent GC, G1 Old Generation]
+[11:42:34] [Server thread/WARN]: Distant Horizons: G1 Garbage collector detected.
+This can cause FPS stuttering. 
+It's recommended to use a concurrent garbage collector 
+like ZGC (Java 21+) or Shenandoah (Java 8 through 17) 
+for a smoother experience.
+[11:42:34] [Server thread/INFO]: Running Delayed setup...
+[11:42:34] [Server thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[11:42:34] [Server thread/INFO]: Checking for Distant Horizons update
+[11:42:35] [Server thread/INFO]: Distant Horizons already up to date.
+[11:42:35] [Server thread/INFO]: Distant Horizons server Initialized at 
+[11:42:35] [Server thread/INFO]: loaded team data: 2 known players, 2 teams total
+[11:42:35] [Server thread/INFO]: Starting background profiler...
+[11:42:35] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[11:42:35] [Server thread/INFO]: Started [DhServerWorld] of type [SERVER_ONLY].
+[11:42:35] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[11:42:35] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[11:42:35] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[11:42:35] [Server thread/INFO]: Loading properties
+[11:42:35] [Server thread/INFO]: Default game type: SURVIVAL
+[11:42:35] [Server thread/INFO]: Generating keypair
+[11:42:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:42:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:42:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:42:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:42:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:42:35] [Server thread/INFO]: Preparing level "world"
+[11:42:36] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(.\world\dimensions\minecraft\overworld\data)]].
+[11:42:36] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[11:42:36] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[11:42:36] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(.\world\dimensions\minecraft\the_nether\data;.\world\dimensions\minecraft\overworld\data)]].
+[11:42:36] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[11:42:36] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(.\world\dimensions\minecraft\the_nether\data;.\world\dimensions\minecraft\the_end\data;.\world\dimensions\minecraft\overworld\data)]].
+[11:42:36] [Server thread/INFO]: Loading 0 persistent chunks...
+[11:42:36] [Server thread/INFO]: Preparing spawn area: 100%
+[11:42:36] [Server thread/INFO]: Time elapsed: 13 ms
+[11:42:36] [Server thread/INFO]: Done (0.559s)! For help, type "help"
+[11:42:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:42:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:42:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:42:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:42:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:42:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:42:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:42:36] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[11:42:36] [Server thread/INFO]: Registered synced player tracker system: ftb_teams
+[11:42:36] [Server thread/INFO]: Registered synced player tracker system: ftb_teams
+[11:42:36] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[11:42:36] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[11:42:36] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[11:42:36] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Batch Chunk Generator initialized
+[11:42:36] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Creating world gen queue
+[11:42:36] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Created world gen queue
+[11:42:36] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Set world gen queue for level [minecraft:overworld].
+[11:42:36] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Batch Chunk Generator initialized
+[11:42:36] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Creating world gen queue
+[11:42:36] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Created world gen queue
+[11:42:36] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Set world gen queue for level [minecraft:the_nether].
+[11:42:37] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Batch Chunk Generator initialized
+[11:42:37] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Creating world gen queue
+[11:42:37] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Created world gen queue
+[11:42:37] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Set world gen queue for level [minecraft:the_end].
+[11:43:26] [Server thread/INFO]: Stopping the server
+[11:43:26] [Server thread/INFO]: Stopping server
+[11:43:26] [Server thread/INFO]: Saving players
+[11:43:26] [Server thread/INFO]: Saving worlds
+[11:43:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:43:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:43:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:43:27] [Server thread/INFO]: Closing world gen queue
+[11:43:27] [Server thread/INFO]: Closing WorldGenerationQueue...
+[11:43:27] [Server thread/INFO]: Shutting down world generator thread pool...
+[11:43:27] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
+[11:43:27] [Server thread/INFO]: [BatchGenerator] shutting down...
+[11:43:27] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
+[11:43:27] [Server thread/INFO]: Finished closing WorldGenerationQueue
+[11:43:27] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
+[11:43:27] [Server thread/INFO]: Closing world gen queue
+[11:43:27] [Server thread/INFO]: Closing WorldGenerationQueue...
+[11:43:27] [Server thread/INFO]: Shutting down world generator thread pool...
+[11:43:27] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
+[11:43:27] [Server thread/INFO]: [BatchGenerator] shutting down...
+[11:43:27] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
+[11:43:27] [Server thread/INFO]: Finished closing WorldGenerationQueue
+[11:43:27] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
+[11:43:27] [Server thread/INFO]: Closing world gen queue
+[11:43:27] [Server thread/INFO]: Closing WorldGenerationQueue...
+[11:43:27] [Server thread/INFO]: Shutting down world generator thread pool...
+[11:43:27] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
+[11:43:27] [Server thread/INFO]: [BatchGenerator] shutting down...
+[11:43:27] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
+[11:43:27] [Server thread/INFO]: Finished closing WorldGenerationQueue
+[11:43:27] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
+[11:43:27] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
+[11:43:27] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
+[11:43:27] [Server thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[11:43:27] [Server thread/INFO]: Closing all [3] database connections...
+[11:43:27] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\the_nether\data\DistantHorizons.sqlite]
+[11:43:27] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\overworld\data\DistantHorizons.sqlite]
+[11:43:27] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\the_end\data\DistantHorizons.sqlite]
