@@ -1,0 +1,13 @@
+{
+  "display_name": "Exploration : ",
+  "cmd_to_exc": [
+    "/attribute @s minecraft:luck base set [param(1)]"
+  ],
+  "on_level_event": "",
+  "tip_to_display": "§7Influences the chances of receiving better loot or triggering beneficial events",
+  "init_val_attribute": 0.0,
+  "max_level": 100.0,
+  "base_value_per_point": 1.0,
+  "lock": false,
+  "icon_path": "screens/att_7.png"
+}

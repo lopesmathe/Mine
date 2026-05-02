@@ -1,0 +1,13 @@
+{
+  "display_name": "Agility : ",
+  "cmd_to_exc": [
+    "/attribute @s minecraft:movement_speed base set [param(0.005)]"
+  ],
+  "on_level_event": "",
+  "tip_to_display": "§7Influences how fast you can move",
+  "init_val_attribute": 0.1,
+  "max_level": 50.0,
+  "base_value_per_point": 1.0,
+  "lock": false,
+  "icon_path": "screens/att_5.png"
+}

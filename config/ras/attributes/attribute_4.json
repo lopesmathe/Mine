@@ -1,0 +1,13 @@
+{
+  "display_name": "Protection : ",
+  "cmd_to_exc": [
+    "/attribute @s minecraft:armor base set [param(1)]"
+  ],
+  "on_level_event": "",
+  "tip_to_display": "§7Reduces the amount of damage you take from enemy attacks",
+  "init_val_attribute": 0.0,
+  "max_level": 200.0,
+  "base_value_per_point": 1.0,
+  "lock": false,
+  "icon_path": "screens/att_4.png"
+}

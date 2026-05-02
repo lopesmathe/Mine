@@ -1,0 +1,39 @@
+{
+  "max_player_level": 500.0,
+  "level_per_orb": 1.0,
+  "vp_diminishing_factor": 20.0,
+  "points_per_level": 1.0,
+  "use_vanilla_xp": false,
+  "on_death_reset": false,
+  "levels_scale_default": 1.001,
+  "first_level_vp": 90.0,
+  "levels_scale_interval": [
+    "[range]0-50[rangeEnd][scale]1.1[scaleEnd]",
+    "[range]51-100[rangeEnd][scale]1.05[scaleEnd]",
+    "[range]101-200[rangeEnd][scale]1.01[scaleEnd]",
+    "[range]201-500[rangeEnd][scale]1.001[scaleEnd]"
+  ],
+  "exp_curve_start_level": 1.0,
+  "exp_curve_max_level": 500.0,
+  "exp_curve_first_level_xp": 90.0,
+  "exp_curve_default_scale": 1.001,
+  "exp_curve_scale_intervals": [
+    "[range]0-50[rangeEnd][scale]1.1[scaleEnd]",
+    "[range]51-100[rangeEnd][scale]1.05[scaleEnd]",
+    "[range]101-200[rangeEnd][scale]1.01[scaleEnd]",
+    "[range]201-500[rangeEnd][scale]1.001[scaleEnd]"
+  ],
+  "exp_required_per_level": [
+    "[level]1[levelEnd][xp]90[xpEnd]"
+  ],
+  "allowSummonXP": true,
+  "shared_xp_enabled": false,
+  "shared_xp_radius": 16.0,
+  "shared_xp_percentage": 50.0,
+  "show_vp_inaction_bar": true,
+  "display_level_overlay": true,
+  "display_vp_overlay": true,
+  "display_points_overlay": true,
+  "display_keybind_overlay": true,
+  "global_stats_ui_color": "§4"
+}
