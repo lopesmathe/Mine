@@ -1,0 +1,249 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 2026-05-03 01:38:31
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: eu/pb4/trinkets/api/TrinketsApi
+	at knot//com.tom.storagemod.platform.Platform.checkExtraSlots(Platform.java:79)
+	at knot//com.tom.storagemod.util.PlayerInvUtil.findItem(PlayerInvUtil.java:25)
+	at knot//com.tom.storagemod.StorageMod.lambda$onInitialize$1(StorageMod.java:104)
+	at knot//net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.receive(ServerPlayNetworkAddon.java:79)
+	at knot//net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.receive(ServerPlayNetworkAddon.java:42)
+	at knot//net.fabricmc.fabric.impl.networking.AbstractChanneledNetworkAddon.handle(AbstractChanneledNetworkAddon.java:102)
+	at knot//net.minecraft.server.network.ServerGamePacketListenerImpl.handler$bal001$fabric-networking-api-v1$handleCustomPayloadReceivedAsync(ServerGamePacketListenerImpl.java:2504)
+	at knot//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCustomPayload(ServerGamePacketListenerImpl.java)
+	at knot//net.minecraft.network.protocol.common.ServerboundCustomPayloadPacket.handle(ServerboundCustomPayloadPacket.java:36)
+	at knot//net.minecraft.network.protocol.common.ServerboundCustomPayloadPacket.handle(ServerboundCustomPayloadPacket.java:15)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1033)
+	at knot//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:774)
+	at knot//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:321)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ClassNotFoundException: eu.pb4.trinkets.api.TrinketsApi
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:239)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 16 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 26.1.2
+	Minecraft Version ID: 26.1.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 25.0.2, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 338401272 bytes (322 MiB) / 6442450944 bytes (6144 MiB) up to 6442450944 bytes (6144 MiB)
+	Memory (heap): init: 6144MiB, used: 5814MiB, committed: 6144MiB, max: 6144MiB
+	Memory (non-head): init: 007MiB, used: 246MiB, committed: 291MiB, max: 000MiB
+	CPUs: 12
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 5 5500                               
+	Identifier: AuthenticAMD Family 25 Model 80 Stepping 0
+	Microarchitecture: Zen 3
+	Frequency (GHz): 3.59
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: AMD Radeon RX 6600
+	Graphics card #0 vendor: Advanced Micro Devices, Inc.
+	Graphics card #0 VRAM (MiB): 8176.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.21043.5001
+	Memory slot #0 capacity (MiB): 16384.00
+	Memory slot #0 clockSpeed (GHz): 2.67
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 16384.00
+	Memory slot #1 clockSpeed (GHz): 2.67
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 38037.54
+	Virtual memory used (MiB): 32480.83
+	Swap memory total (MiB): 5376.00
+	Swap memory used (MiB): 98.19
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 12055.34, total: 113491.00
+	Space in storage for workdir (MiB): available: 156427.36, total: 476426.94
+	JVM Flags: 2 total; -Xmx6G -Xms6G
+	Debug Flags: 0 total; 
+	Fabric Mods: 
+		armored-elytra: Armored Elytra 1.13.0
+		armorposer: Armor Poser 14.0.3
+		artifacts: Artifacts 15.0.0
+			cardinal-components-base: Cardinal Components API (base) 8.0.0
+			cardinal-components-entity: Cardinal Components API (entities) 8.0.0
+			expandability: ExpandAbility 14.0.0
+		balm: Balm 26.1.2.5
+			kuma_api: KumaAPI 26.1.2.2
+		betterfpsdist: Better FPS distance Mod 26.1-6.0
+		citadel: Citadel 26.1-1.0.2
+		cloth-config: Cloth Config v26.1 26.1.154
+			cloth-basic-math: cloth-basic-math 0.6.1
+		collective: Collective 8.22
+		constructionwand: Construction Wand (Fabric) 2.1.2
+			dev_smto_simpleconfig: simpleconfig 2.4.3
+		creativecore: CreativeCore 2.14.14
+			net_neoforged_bus: bus 7.2.0
+		cristellib: Cristel Lib 3.1.3
+			blue_endless_jankson: jankson 1.2.3
+		cupboard: cupboard 26.1-3.7
+		dagger: Dual Daggers 1.0.0
+		darkbindings: DarkBindings - Custom Recipes 1.5.6
+		darkcasino: DarkCasino - RPG Casino 1.0.8
+		darkglint: DarkGlint - Enchantment Glint 1.1.8
+		darkloot: DarkLoot - Better Mob Loot 1.3.2
+		darkmobs: DarkMobs - Increase Mob Difficulty 1.2.4
+		darksmelting: DarkSmelting - Smelt Armor and Tools 1.2.0
+		darksmithing: DarkSmithing - Smithing Template Recipes (for Trims) 1.2.0
+		darkstarter: DarkStarter - Starter Items 1.2.0
+		darktimer: DarkTimer - Clear Entity Lag 1.2.6
+		distanthorizons: Distant Horizons 3.0.2-b
+			fabric-api-base: Fabric API Base 2.0.3+ece0632339
+			fabric-biome-api-v1: Fabric Biome API (v1) 18.0.4+35c80edc39
+			fabric-block-api-v1: Fabric Block API (v1) 3.0.2+ec56b60139
+			fabric-block-getter-api-v2: Fabric BlockGetter API (v2) 2.0.6+ec56b60139
+			fabric-command-api-v2: Fabric Command API (v2) 3.0.5+e2bdee7839
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 1.0.3+9f78a5a839
+			fabric-creative-tab-api-v1: Fabric Creative Tab API (v1) 5.0.10+d871b99e39
+			fabric-debug-api-v1: Fabric Debug API (v1) 1.0.1+c792624d39
+			fabric-entity-events-v1: Fabric Entity Events (v1) 5.0.2+e2bdee7839
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 5.1.10+c82f046139
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 4.0.5+d871b99e39
+			fabric-gametest-api-v1: Fabric Game Test API (v1) 4.0.13+00a1fba639
+			fabric-loot-api-v3: Fabric Loot API (v3) 3.0.11+00a1fba639
+			fabric-menu-api-v1: Fabric Menu API (v1) 2.0.12+d871b99e39
+			fabric-message-api-v1: Fabric Message API (v1) 7.0.5+dae8ce3e39
+			fabric-networking-api-v1: Fabric Networking API (v1) 6.3.0+50a808ce39
+			fabric-particles-v1: Fabric Particles (v1) 5.0.14+b61fef4339
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 7.0.12+b61fef4339
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 6.0.1+d871b99e39
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 6.0.5+00a1fba639
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 3.3.16+4fc5413f39
+			fabric-resource-loader-v1: Fabric Resource Loader (v1) 2.0.9+d871b99e39
+			fabric-serialization-api-v1: Fabric Serialization API (v1) 2.0.3+11a26f3139
+			fabric-tag-api-v1: Fabric Tag API (v1) 2.0.9+11a26f3139
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 8.0.11+d871b99e39
+		elevatorid: ElevatorMod 26.1.1-1.16.3
+		explorerscompass: Explorer's Compass 26.1-2.5.1-fabric
+		fabric-api: Fabric API 0.147.0+26.1.2
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 2.0.11+d5a053b64c
+			fabric-content-registries-v0: Fabric Content Registries (v0) 11.0.13+d871b99e4c
+			fabric-convention-tags-v2: Fabric Convention Tags (v2) 4.5.0+4e71cda84c
+			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 2.2.4+d602a8964c
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 24.0.19+35c80edc4c
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 5.1.5+9cbf5da54c
+			fabric-item-api-v1: Fabric Item API (v1) 14.1.1+73d134684c
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 4.1.0+6d50a0854c
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 23.0.14+b95dd56e4c
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 9.0.14+be4b75ae4c
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 8.0.5+357ea7334c
+		fabric-language-kotlin: Fabric Language Kotlin 1.13.11+kotlin.2.3.21
+			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 2.3.21
+			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 2.3.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 2.3.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 2.3.21
+			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.32.1
+			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.10.2
+			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.10.2
+			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.7.1
+			org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm: kotlinx-io-bytestring-jvm 0.9.0
+			org_jetbrains_kotlinx_kotlinx-io-core-jvm: kotlinx-io-core-jvm 0.9.0
+			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.11.0
+			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.11.0
+			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.11.0
+		fabricloader: Fabric Loader 0.19.2
+			mixinextras: MixinExtras 0.5.4
+		farmersdelight: Farmer's Delight 26.1-3.6.4+refabricated
+		forgeconfigapiport: Forge Config API Port 26.1.4
+			com_electronwill_night-config_core: core 3.8.3
+			com_electronwill_night-config_toml: toml 3.8.3
+		framework: Framework 0.13.23
+			org_javassist_javassist: javassist 3.30.2-GA
+			org_reflections_reflections: reflections 0.10.2
+		ftblibrary: FTB Library 26.1.2.2
+			de_marhali_json5-java: json5-java 3.0.0
+		ftbteams: FTB Teams 26.1.2.3
+		ftbultimine: FTB Ultimine 26.1.2.3
+		fzzy_config: Fzzy Config 0.7.6+26.1
+			fabric-permissions-api-v0: fabric-permissions-api 0.7.0-SNAPSHOT
+			net_peanuuutz_tomlkt_tomlkt-jvm: tomlkt-jvm 0.3.7
+		glitchcore: GlitchCore 26.1.2.0.0
+			net_jodah_typetools: typetools 0.6.3
+		goblintraders: Goblin Traders 1.12.0
+		illager_arena: Illager Arena 1.0.0
+		illagerwarship: Illager Warship 1.0.0
+		itemphysic: ItemPhysic 1.8.14
+		java: Java HotSpot(TM) 64-Bit Server VM 25
+		jei: Just Enough Items 29.5.0.28
+		konkrete: Konkrete 1.10.1
+		librarian-filter: Easy librarian trade mod 1.0.1
+		lightaura: LightAura 8.8.7
+		lootintegrations: Loot integration Mod 26.1-4.8
+		maple: Maple 1.5.3-26.1.1-Fabric
+		maxhealthfix: MaxHealthFix 26.1.2.1
+		mc-armor-hud: mc-armor-hud 8.1.1.3
+		mes: MoogsEndStructures 2.0.0
+		minecraft: Minecraft 26.1.2
+		mns: MoogsNetherStructures 2.0.31
+		monolib: MonoLib 4.0.2
+		moogs_structures: Moog's Structure Lib 2.0.1-26.1.0-26.1.2-fabric
+		morevillagers: More Villagers 8.0.0
+		mr_badland_moaivillager: Badland Moai Villager 1.14
+		mr_dungeons_andtaverns: Dungeons and Taverns 5.2.0
+		mr_grim_kingdomsloststructuresruins: Grim kingdoms: Lost structures & ruins 1-v1.0.3
+		mr_moai_japanesesoldiervillager: Moai Japanese Soldier Villager 1.14
+		mr_moai_villagerstatue: Moai Villager Statue 1.14
+		mr_rpg_enchantments: RPG Enchantments 1.1.2
+		mutantszombies: Mutants and Zombies 1.3.3-Fabric-mc26.1
+		mvs: MoogsVoyagerStructures 5.0.9
+		naturescompass: Nature's Compass 26.1-2.5.0-fabric
+		ocean_lily_pad_village: Ocean Lily Pad Village 1.0.0
+		old_combat_mod: Old Combat Mod 1.2
+		prickle: PrickleMC 26.1.2.2
+		resourcebarapi: Resource Bar API 4.0.0
+		resourcefullib: Resourceful Lib 4.0.1
+			com_teamresourceful_bytecodecs: bytecodecs 1.1.3
+			com_teamresourceful_yabn: yabn 1.0.3
+		rmf: Reg's More Foods 1.4.1+26.1+mod
+		rpg_attribute_system: RPG Attribute System 3.1.2
+		shogi: Shogi 26.1.2.3
+			shogi_api: Shogi API 26.1.2.3
+		shulkerdropstwo: Shulker Drops Two 3.6
+		smallernetherportals: Smaller Nether Portals 4.0
+		t_and_t: Towns and Towers 1.13.11
+		terrablender: TerraBlender 26.1.2.0.1
+		toms_storage: Tom's Simple Storage Mod 2.9.2
+		travelersbackpack: Traveler's Backpack 11.2.2
+		trinkets: Trinkets Continued 3.12.0
+		waystones: Waystones 26.1.2.2
+		xaerominimap: Xaero's Minimap 25.3.11
+			xaerolib: XaeroLib 1.1.13
+		xaeroworldmap: Xaero's World Map 1.40.14
+		xpbook: XP Tome 2.5.1
+		yet_another_config_lib_v3: YetAnotherConfigLib 3.9.3+26.1-fabric
+			com_twelvemonkeys_common_common-image: common-image 3.12.0
+			com_twelvemonkeys_common_common-io: common-io 3.12.0
+			com_twelvemonkeys_common_common-lang: common-lang 3.12.0
+			com_twelvemonkeys_imageio_imageio-core: imageio-core 3.12.0
+			com_twelvemonkeys_imageio_imageio-metadata: imageio-metadata 3.12.0
+			com_twelvemonkeys_imageio_imageio-webp: imageio-webp 3.12.0
+			org_quiltmc_parsers_gson: gson 0.2.1
+			org_quiltmc_parsers_json: json 0.2.1
+	Server Running: true
+	Player Count: 2 / 20; [ServerPlayer['lopesmathe'/41474, l='ServerLevel[world]', x=-291.53, y=64.00, z=1214.60], ServerPlayer['NewBorntodie'/29, l='ServerLevel[world]', x=153.98, y=116.00, z=-712.30]]
+	Active Data Packs: vanilla, artifacts, balm (incompatible), citadel (incompatible), collective (incompatible), constructionwand (incompatible), dagger, darkbindings (incompatible), darkcasino (incompatible), darkloot (incompatible), darkmobs (incompatible), darksmelting (incompatible), darksmithing (incompatible), darkstarter (incompatible), darktimer (incompatible), elevatorid, explorerscompass, fabric-convention-tags-v2, fabric-gametest-api-v1, farmersdelight, ftbultimine, goblintraders (incompatible), illager_arena, illagerwarship, lootintegrations (incompatible), maple (incompatible), mes (incompatible), mns (incompatible), morevillagers, mr_badland_moaivillager, mr_dungeons_andtaverns, mr_grim_kingdomsloststructuresruins (incompatible), mr_moai_japanesesoldiervillager, mr_moai_villagerstatue, mr_rpg_enchantments (incompatible), mutantszombies, mvs (incompatible), naturescompass, ocean_lily_pad_village, rmf, rpg_attribute_system (incompatible), t_and_t, terrablender (incompatible), toms_storage (incompatible), travelersbackpack, trinkets, waystones (incompatible), xpbook, t_and_t:resources/t_and_t_waystones_patch
+	Available Data Packs: artifacts, balm (incompatible), citadel (incompatible), collective (incompatible), constructionwand (incompatible), dagger, darkbindings (incompatible), darkcasino (incompatible), darkloot (incompatible), darkmobs (incompatible), darksmelting (incompatible), darksmithing (incompatible), darkstarter (incompatible), darktimer (incompatible), elevatorid, explorerscompass, fabric-convention-tags-v2, fabric-gametest-api-v1, farmersdelight, ftbultimine, goblintraders (incompatible), illager_arena, illagerwarship, lootintegrations (incompatible), maple (incompatible), mes (incompatible), minecart_improvements, mns (incompatible), morevillagers, mr_badland_moaivillager, mr_dungeons_andtaverns, mr_grim_kingdomsloststructuresruins (incompatible), mr_moai_japanesesoldiervillager, mr_moai_villagerstatue, mr_rpg_enchantments (incompatible), mutantszombies, mvs (incompatible), naturescompass, ocean_lily_pad_village, redstone_experiments, rmf, rpg_attribute_system (incompatible), t_and_t, t_and_t:resources/t_and_t_waystones_patch, terrablender (incompatible), toms_storage (incompatible), trade_rebalance, travelersbackpack, trinkets, vanilla, waystones (incompatible), xpbook
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: 8698135839893907949
+	Suppressed Exceptions: ~~NONE~~
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server
