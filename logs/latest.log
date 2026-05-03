@@ -1,9 +1,10 @@
-[23:21:56] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.2
-[23:21:56] [main/INFO]: Mappings not present!
-[23:21:56] [main/WARN]: Warnings were found!
+[23:27:31] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.2
+[23:27:31] [main/INFO]: Mappings not present!
+[23:27:31] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 26.1.4 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[23:21:56] [main/INFO]: Loading 169 mods:
+[23:27:31] [main/INFO]: Loading 170 mods:
+	- alexsmobs 26.1-1.0.1
 	- armored-elytra 1.13.0
 	- armorposer 14.0.3
 	- artifacts 15.0.0
@@ -193,52 +194,52 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[23:21:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Servidor_Mine/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[23:21:56] [main/INFO]: Compatibility level set to JAVA_25
-[23:21:56] [main/WARN]: Reference map 'additionalentityattributes.refmap.json' for additionalentityattributes.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'additionalentityattributes.refmap.json' for additionalentityattributes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'citadel.refmap.json' for citadel.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'framework.refmap.json' for framework.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'framework.refmap.json' for framework.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'goblintraders.refmap.json' for goblintraders.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'goblintraders.refmap.json' for goblintraders.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'itemphysic.mixin.refmap.json' for itemphysic.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'shogi.refmap.json' for shogi.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'shogi.refmap.json' for shogi.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:56] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:21:57] [main/WARN]: Error loading class: io/github/apace100/apoli/condition/type/entity/ExposedToSunEntityConditionType (java.lang.ClassNotFoundException: io/github/apace100/apoli/condition/type/entity/ExposedToSunEntityConditionType)
-[23:21:57] [main/WARN]: @Mixin target io.github.apace100.apoli.condition.type.entity.ExposedToSunEntityConditionType was not found artifacts.common.mixins.json:compat.apoli.condition.type.entity.ExposedToSunEntityConditionTypeMixin from mod artifacts
-[23:21:57] [main/WARN]: Error loading class: net/minecraft/client/gui/Gui (java.lang.ClassNotFoundException: net/minecraft/client/gui/Gui)
-[23:21:57] [main/WARN]: @Mixin target net.minecraft.client.gui.Gui was not found collective_fabric.mixins.json:GuiMixin from mod collective
-[23:21:57] [main/WARN]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.ClassNotFoundException: net/minecraft/client/renderer/GameRenderer)
-[23:21:57] [main/WARN]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found creativecore.fabric.mixins.json:GameRendererMixin from mod creativecore
-[23:21:57] [main/WARN]: Error loading class: net/minecraft/client/gui/screens/recipebook/GhostSlots (java.lang.ClassNotFoundException: net/minecraft/client/gui/screens/recipebook/GhostSlots)
-[23:21:57] [main/WARN]: @Mixin target net.minecraft.client.gui.screens.recipebook.GhostSlots was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[23:21:57] [main/WARN]: Error loading class: net/minecraft/client/gui/GuiGraphicsExtractor (java.lang.ClassNotFoundException: net/minecraft/client/gui/GuiGraphicsExtractor)
-[23:21:57] [main/WARN]: @Mixin target net.minecraft.client.gui.GuiGraphicsExtractor was not found farmersdelight.mixins.json:refabricated.GuiGraphicsExtractorAccessor from mod farmersdelight
-[23:21:57] [main/WARN]: Error loading class: net/minecraft/client/Minecraft (java.lang.ClassNotFoundException: net/minecraft/client/Minecraft)
-[23:21:57] [main/WARN]: @Mixin target net.minecraft.client.Minecraft was not found lightaura.mixins.json:LightmapMixin from mod lightaura
-[23:21:57] [main/WARN]: Error loading class: net/minecraft/client/renderer/state/level/BlockOutlineRenderState (java.lang.ClassNotFoundException: net/minecraft/client/renderer/state/level/BlockOutlineRenderState)
-[23:21:57] [main/WARN]: @Mixin target net.minecraft.client.renderer.state.level.BlockOutlineRenderState was not found resourcefullib.mixins.json:BlockOutlineRenderStateMixin from mod resourcefullib
-[23:21:57] [main/WARN]: Redundant @Unique on injector method additionalEntityAttributes$addPlayerAttributes(Lnet/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder;)Lnet/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder; in additionalentityattributes.fabric.mixins.json:PlayerMixin from mod additionalentityattributes. Injectors are implicitly unique
-[23:21:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[23:21:59] [main/WARN]: Redundant @Unique on injector method additionalEntityAttributes$addPlayerAttributes(Lnet/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder;)Lnet/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder; in additionalentityattributes.fabric.mixins.json:PlayerMixin from mod additionalentityattributes. Injectors are implicitly unique
-[23:22:06] [main/INFO]: Apoli 2.12.3 has initialized. Ready to power up your game!
-[23:22:06] [main/ERROR]: Failed to instantiate proxy
+[23:27:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Servidor_Mine/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:27:31] [main/INFO]: Compatibility level set to JAVA_25
+[23:27:31] [main/WARN]: Reference map 'additionalentityattributes.refmap.json' for additionalentityattributes.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:31] [main/WARN]: Reference map 'additionalentityattributes.refmap.json' for additionalentityattributes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:31] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:31] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:31] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:31] [main/WARN]: Reference map 'citadel.refmap.json' for citadel.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:31] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:31] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'framework.refmap.json' for framework.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'framework.refmap.json' for framework.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'goblintraders.refmap.json' for goblintraders.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'goblintraders.refmap.json' for goblintraders.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'itemphysic.mixin.refmap.json' for itemphysic.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'shogi.refmap.json' for shogi.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'shogi.refmap.json' for shogi.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:27:32] [main/WARN]: Error loading class: io/github/apace100/apoli/condition/type/entity/ExposedToSunEntityConditionType (java.lang.ClassNotFoundException: io/github/apace100/apoli/condition/type/entity/ExposedToSunEntityConditionType)
+[23:27:32] [main/WARN]: @Mixin target io.github.apace100.apoli.condition.type.entity.ExposedToSunEntityConditionType was not found artifacts.common.mixins.json:compat.apoli.condition.type.entity.ExposedToSunEntityConditionTypeMixin from mod artifacts
+[23:27:32] [main/WARN]: Error loading class: net/minecraft/client/gui/Gui (java.lang.ClassNotFoundException: net/minecraft/client/gui/Gui)
+[23:27:32] [main/WARN]: @Mixin target net.minecraft.client.gui.Gui was not found collective_fabric.mixins.json:GuiMixin from mod collective
+[23:27:32] [main/WARN]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.ClassNotFoundException: net/minecraft/client/renderer/GameRenderer)
+[23:27:32] [main/WARN]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found creativecore.fabric.mixins.json:GameRendererMixin from mod creativecore
+[23:27:32] [main/WARN]: Error loading class: net/minecraft/client/gui/screens/recipebook/GhostSlots (java.lang.ClassNotFoundException: net/minecraft/client/gui/screens/recipebook/GhostSlots)
+[23:27:32] [main/WARN]: @Mixin target net.minecraft.client.gui.screens.recipebook.GhostSlots was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[23:27:32] [main/WARN]: Error loading class: net/minecraft/client/gui/GuiGraphicsExtractor (java.lang.ClassNotFoundException: net/minecraft/client/gui/GuiGraphicsExtractor)
+[23:27:32] [main/WARN]: @Mixin target net.minecraft.client.gui.GuiGraphicsExtractor was not found farmersdelight.mixins.json:refabricated.GuiGraphicsExtractorAccessor from mod farmersdelight
+[23:27:32] [main/WARN]: Error loading class: net/minecraft/client/Minecraft (java.lang.ClassNotFoundException: net/minecraft/client/Minecraft)
+[23:27:32] [main/WARN]: @Mixin target net.minecraft.client.Minecraft was not found lightaura.mixins.json:LightmapMixin from mod lightaura
+[23:27:32] [main/WARN]: Error loading class: net/minecraft/client/renderer/state/level/BlockOutlineRenderState (java.lang.ClassNotFoundException: net/minecraft/client/renderer/state/level/BlockOutlineRenderState)
+[23:27:32] [main/WARN]: @Mixin target net.minecraft.client.renderer.state.level.BlockOutlineRenderState was not found resourcefullib.mixins.json:BlockOutlineRenderStateMixin from mod resourcefullib
+[23:27:32] [main/WARN]: Redundant @Unique on injector method additionalEntityAttributes$addPlayerAttributes(Lnet/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder;)Lnet/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder; in additionalentityattributes.fabric.mixins.json:PlayerMixin from mod additionalentityattributes. Injectors are implicitly unique
+[23:27:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[23:27:33] [main/WARN]: Redundant @Unique on injector method additionalEntityAttributes$addPlayerAttributes(Lnet/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder;)Lnet/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder; in additionalentityattributes.fabric.mixins.json:PlayerMixin from mod additionalentityattributes. Injectors are implicitly unique
+[23:27:38] [main/INFO]: Apoli 2.12.3 has initialized. Ready to power up your game!
+[23:27:38] [main/ERROR]: Failed to instantiate proxy
 java.lang.RuntimeException: Failed to instantiate mod proxy net.blay09.mods.balm.fabric.platform.compatibility.permissions.internal.FabricPermissionsAPIIntegration
 	at knot//net.blay09.mods.balm.platform.internal.ModProxyImpl.lambda$with$0(ModProxyImpl.java:36)
 	at knot//net.blay09.mods.balm.platform.internal.ModProxyImpl.build(ModProxyImpl.java:77)
@@ -267,296 +268,74 @@ Caused by: java.lang.ClassNotFoundException: net.blay09.mods.balm.fabric.platfor
 	at java.base/java.lang.Class.forName(Class.java:458)
 	at knot//net.blay09.mods.balm.platform.internal.ModProxyImpl.lambda$with$0(ModProxyImpl.java:34)
 	... 15 more
-[23:22:06] [main/INFO]: betterfpsdist mod initialized
-[23:22:06] [main/INFO]: Loading Collective version 8.22.
-[23:22:06] [main/INFO]: ConstructionWand says hello - may the odds be ever in your favor.
-[23:22:06] [main/INFO]: Loaded config for: cupboard.json
-[23:22:06] [main/INFO]: Daggers initialized
-[23:22:06] [main/INFO]: ExpandAbility here, who dis?
-[23:22:07] [main/INFO]: Loaded config farmersdelight-common.json
-[23:22:07] [main/INFO]: Reflections took 76 ms to scan 2 urls, producing 8 keys and 91 values
-[23:22:07] [main/INFO]: Hello Fabric world!
-[23:22:07] [main/INFO]: Hello Fabric world!
-[23:22:08] [main/INFO]: [KONKRETE] Loading v1.10.1 in server-side mode on FABRIC!
-[23:22:08] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[23:22:08] [main/INFO]: Villager trade reroll initialized for 26.1!
-[23:22:08] [main/ERROR]: No data fixer registered for chair_entity
-[23:22:08] [main/ERROR]: No data fixer registered for cushion_entity
-[23:22:08] [main/ERROR]: No data fixer registered for maple_boat
-[23:22:08] [main/ERROR]: No data fixer registered for maple_chest_boat
-[23:22:08] [main/ERROR]: No data fixer registered for ginkgo_boat
-[23:22:08] [main/ERROR]: No data fixer registered for ginkgo_chest_boat
-[23:22:08] [main/INFO]: Registering Mod Items for maple
-[23:22:08] [main/INFO]: Registering Glass Items for maple
-[23:22:08] [main/INFO]: Registering Maple Food Items for maple
-[23:22:08] [main/INFO]: Registering Maple armor items for maple
-[23:22:08] [main/INFO]: register Mod Nether Ores Blocksmaple
-[23:22:08] [main/ERROR]: No data fixer registered for maple_juicer_block_entity
-[23:22:08] [main/INFO]: register Maple Particle Types formaple
-[23:22:08] [main/INFO]: Registering Villagers maple
-[23:22:08] [main/INFO]: Registering Maple armor assets Keys for maple
-[23:22:08] [main/INFO]: Registering Custom Recipes for maple
-[23:22:08] [main/INFO]: Hello Fabric world!
-[23:22:08] [main/INFO]: Registering Mod Items for mutantszombies
-[23:22:08] [main/INFO]: Registering Sounds for mutantszombies
-[23:22:08] [main/INFO]: Hello Fabric world!
-[23:22:08] [main/INFO]: Origins 1.12.4 is initializing. Have fun!
-[23:22:08] [main/INFO]: Initializing Resource Bar API!
-[23:22:08] [main/INFO]: Loaded config resourcebarapi:server in 234ms
-[23:22:08] [main/INFO]: Initializing stamina!
-[23:22:08] [main/INFO]: Loaded config staminaattributes:server in 153ms
-[23:22:08] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[23:22:08] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[23:22:08] [main/INFO]: Registered region maple:overworld_1 to index 1 for type OVERWORLD
-[23:22:08] [main/INFO]: Registered region maple:overworld_2 to index 2 for type OVERWORLD
-[23:22:08] [main/INFO]: Tom's Storage Setup starting
-[23:22:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[23:22:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[23:22:09] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[23:22:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[23:22:09] [main/INFO]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
-[23:22:09] [main/INFO]: Running library validation...
-[23:22:09] [main/INFO]: Distant Horizons, Version: 3.0.2-b
-[23:22:09] [main/INFO]: Registering Fabric Server Events
-[23:22:09] [main/INFO]: Skipping mod compatibility accessor for: [starlight]
-[23:22:09] [main/INFO]: Skipping mod compatibility accessor for: [optifine]
-[23:22:09] [main/INFO]: Skipping mod compatibility accessor for: [bclib]
-[23:22:09] [main/INFO]: Skipping mod compatibility accessor for: [c2me]
-[23:22:09] [main/INFO]: Skipping mod compatibility accessor for: [iris]
-[23:22:09] [main/INFO]: Distant Horizons server Initialized, adding event subscribers...
-[23:22:09] [main/INFO]: Registering common data for channel xaerolib:main!
-[23:22:09] [main/INFO]: Loading primary common config for channel xaerolib:main!
-[23:22:09] [main/INFO]: Loading server config profiles for channel xaerolib:main!
-[23:22:09] [main/INFO]: Loading XaeroLib common 1/2!
-[23:22:09] [main/INFO]: Loading XaeroLib server 1/2!
-[23:22:09] [main/INFO]: Registering common data for channel xaerominimap:main!
-[23:22:09] [main/INFO]: Loading primary common config for channel xaerominimap:main!
-[23:22:09] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
-[23:22:09] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[23:22:09] [main/INFO]: Registering common data for channel xaeroworldmap:main!
-[23:22:09] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
-[23:22:09] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
-[23:22:09] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[23:22:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[23:22:10] [main/WARN]: Missing data pack biomesoplenty
-[23:22:10] [main/WARN]: Missing data pack chargedcharms
-[23:22:10] [main/WARN]: Missing data pack mbs
-[23:22:10] [main/WARN]: Missing data pack mmv
-[23:22:10] [main/WARN]: Missing data pack trinkets_updated
-[23:22:10] [main/WARN]: Missing data pack underground_villages
-[23:22:10] [main/INFO]: Found new data pack additionalentityattributes, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack apoli-legacy, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack citadel, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack dagger, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack darkbindings, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack darkcasino, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack darkloot, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack darkmobs, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack darksmelting, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack darksmithing, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack darkstarter, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack darktimer, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack goblintraders, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack illager_arena, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack illagerwarship, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack lootintegrations, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack maple, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack mns, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack morevillagers, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack mr_badland_moaivillager, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack mr_grim_kingdomsloststructuresruins, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack mr_moai_japanesesoldiervillager, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack mr_moai_villagerstatue, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack mr_rpg_enchantments, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack mutantszombies, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack ocean_lily_pad_village, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack origins-legacy, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack rmf, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack staminaattributes, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack toms_storage, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack trinkets, loading it automatically
-[23:22:10] [main/INFO]: Found new data pack xpbook, loading it automatically
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cartographer_tower/base. Defined mappings: [1.21-1.21.8->mvs:cartographer_tower/base, 1.21.9-1.21.11->mvs:1_21_9/cartographer_tower/base]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/corridors/corridor_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/corridors/corridor_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/corridors/corridor_1]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/corridors/corridor_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/corridors/corridor_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/corridors/corridor_2]
-[23:22:10] [Worker-Main-6/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/azelea_house. Defined mappings: [1.21-1.21.8->mvs:houses/azelea_house, 1.21.9-1.21.11->mvs:1_21_9/houses/azelea_house]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/corridors/corridor_3. Defined mappings: [1.21-1.21.8->mvs:cathedral/corridors/corridor_3, 1.21.9-1.21.11->mvs:1_21_9/cathedral/corridors/corridor_3]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/corridors/corridor_4. Defined mappings: [1.21-1.21.8->mvs:cathedral/corridors/corridor_4, 1.21.9-1.21.11->mvs:1_21_9/cathedral/corridors/corridor_4]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/corner_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/corner_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/corner_1]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/corner_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/corner_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/corner_2]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/corner_3. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/corner_3, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/corner_3]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/corner_4. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/corner_4, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/corner_4]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/dead_end_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/dead_end_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/dead_end_2]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/staircase_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/staircase_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/staircase_1]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/staircase_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/staircase_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/staircase_2]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/three_way_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/three_way_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/three_way_1]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/three_way_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/three_way_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/three_way_2]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/special/three_way_3. Defined mappings: [1.21-1.21.8->mvs:cathedral/special/three_way_3, 1.21.9-1.21.11->mvs:1_21_9/cathedral/special/three_way_3]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/desert_house. Defined mappings: [1.21-1.21.8->mvs:houses/desert_house, 1.21.9-1.21.11->mvs:1_21_9/houses/desert_house]
-[23:22:10] [Worker-Main-9/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/jungle_tower/base. Defined mappings: [1.21-1.21.8->mvs:jungle_tower/base, 1.21.9-1.21.11->mvs:1_21_9/jungle_tower/base]
-[23:22:10] [Worker-Main-6/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/nature/big_oak_tree. Defined mappings: [1.21-1.21.8->mvs:nature/big_oak_tree, 1.21.9-1.21.11->mvs:1_21_9/nature/big_oak_tree]
-[23:22:10] [Worker-Main-5/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/mineshaft/intersection_10. Defined mappings: [1.21-1.21.8->mvs:mineshaft/intersection_10, 1.21.9-1.21.11->mvs:1_21_9/mineshaft/intersection_10]
-[23:22:10] [Worker-Main-7/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/gallows. Defined mappings: [1.21-1.21.8->mvs:gallows, 1.21.9-1.21.11->mvs:1_21_9/gallows]
-[23:22:10] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/small_pillager_tower. Defined mappings: [1.21-1.21.8->mvs:small_pillager_tower, 1.21.9-1.21.11->mvs:1_21_9/small_pillager_tower]
-[23:22:10] [Worker-Main-1/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/small_ship. Defined mappings: [1.21-1.21.8->mvs:small_ship, 1.21.9-1.21.11->mvs:1_21_9/small_ship]
-[23:22:10] [Worker-Main-8/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/other_decoration/desert_pump. Defined mappings: [1.21-1.21.8->mvs:other_decoration/desert_pump, 1.21.9-1.21.11->mvs:1_21_9/other_decoration/desert_pump]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/base/bottom. Defined mappings: [1.21-1.21.8->mvs:cathedral/base/bottom, 1.21.9-1.21.11->mvs:1_21_9/cathedral/base/bottom]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/large_floating_island. Defined mappings: [1.21-1.21.8->mvs:houses/large_floating_island, 1.21.9-1.21.11->mvs:1_21_9/houses/large_floating_island]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/start_corridors/corridor_1. Defined mappings: [1.21-1.21.8->mvs:cathedral/start_corridors/corridor_1, 1.21.9-1.21.11->mvs:1_21_9/cathedral/start_corridors/corridor_1]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/houses/large_warped_tower. Defined mappings: [1.21-1.21.8->mvs:houses/large_warped_tower, 1.21.9-1.21.11->mvs:1_21_9/houses/large_warped_tower]
-[23:22:10] [Worker-Main-5/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/mineshaft/entrance. Defined mappings: [1.21-1.21.8->mvs:mineshaft/entrance, 1.21.9-1.21.11->mvs:1_21_9/mineshaft/entrance]
-[23:22:10] [Worker-Main-9/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/ruins/ruined_beacon. Defined mappings: [1.21-1.21.8->mvs:ruins/ruined_beacon, 1.21.9-1.21.11->mvs:1_21_9/ruins/ruined_beacon]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/start_corridors/corridor_2. Defined mappings: [1.21-1.21.8->mvs:cathedral/start_corridors/corridor_2, 1.21.9-1.21.11->mvs:1_21_9/cathedral/start_corridors/corridor_2]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/start_corridors/corridor_3. Defined mappings: [1.21-1.21.8->mvs:cathedral/start_corridors/corridor_3, 1.21.9-1.21.11->mvs:1_21_9/cathedral/start_corridors/corridor_3]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/start_corridors/corridor_4. Defined mappings: [1.21-1.21.8->mvs:cathedral/start_corridors/corridor_4, 1.21.9-1.21.11->mvs:1_21_9/cathedral/start_corridors/corridor_4]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/cathedral/base/base. Defined mappings: [1.21-1.21.8->mvs:cathedral/base/base, 1.21.9-1.21.11->mvs:1_21_9/cathedral/base/base]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/birch_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/birch_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/birch_well]
-[23:22:10] [Worker-Main-3/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/oak_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/oak_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/oak_well]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/rare_well/rare_well_upper. Defined mappings: [1.21-1.21.8->mvs:well/rare_well/rare_well_upper, 1.21.9-1.21.11->mvs:1_21_9/well/rare_well/rare_well_upper]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/dark_oak_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/dark_oak_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/dark_oak_well]
-[23:22:10] [Worker-Main-3/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/rocky_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/rocky_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/rocky_well]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/small_copper_well. Defined mappings: [1.21-1.21.8->mvs:well/small_copper_well, 1.21.9-1.21.11->mvs:1_21_9/well/small_copper_well]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/desert_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/desert_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/desert_well]
-[23:22:10] [Worker-Main-3/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/snowy_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/snowy_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/snowy_well]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/end_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/end_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/end_well]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/jungle_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/jungle_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/jungle_well]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_4/small_tower_well. Defined mappings: [1.21-1.21.4->mvs:1_21_4/small_tower_well, 1.21.5-1.21.8->mvs:1_21_5/small_tower_well, 1.21.9-1.21.11->mvs:1_21_11/small_tower_well]
-[23:22:10] [Worker-Main-3/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/spruce_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/spruce_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/spruce_well]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/mushroom_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/mushroom_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/mushroom_well]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/small_well. Defined mappings: [1.21-1.21.8->mvs:well/small_well, 1.21.9-1.21.11->mvs:1_21_9/well/small_well]
-[23:22:10] [Worker-Main-10/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/acacia_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/acacia_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/acacia_well]
-[23:22:10] [Worker-Main-4/WARN]: Moog's Structure Lib: No version mapping matched runtime version 26.1.2. Falling back to template mvs:1_21_9/well/wells/nether_well. Defined mappings: [1.21-1.21.8->mvs:well/wells/nether_well, 1.21.9-1.21.11->mvs:1_21_9/well/wells/nether_well]
-[23:22:11] [Worker-Main-2/WARN]: Found cycle while sorting resource reloaders:
-	origins:badge
-	apoli:powers
-
-[23:22:12] [main/INFO]: Loaded 2871 recipes
-[23:22:12] [main/INFO]: Loaded 2741 advancements
-[23:22:13] [main/INFO]: Finished loading powers from data files. Registry contains 76 powers.
-[23:22:13] [main/INFO]: Loaded 0 global power sets.
-[23:22:13] [main/WARN]: Config lootintegrations.json not found, recreating default
-[23:22:13] [main/INFO]: Loaded config for: lootintegrations.json
-[23:22:13] [main/INFO]: Finished loading layers from data files. Registry contains 11 layers.
-[23:22:13] [main/INFO]: Trying to read layer file: origins:origin
-[23:22:13] [main/INFO]: Finished loading origin layers from data files. Read 1 layers.
-[23:22:13] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[23:22:13] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[23:22:13] [main/INFO]: Applied 753 biome modifications to 67 of 68 new biomes in 103.2 ms
-[23:22:13] [Server thread/INFO]: Initialising config for [DistantHorizons]
-[23:22:14] [Server thread/INFO]: [DistantHorizons] Config initialised
-[23:22:14] [Server thread/INFO]: Dimension ignoring disabled, DH will render all dimensions.
-[23:22:14] [Server thread/INFO]: Applying config to loggers
-[23:22:14] [Server thread/INFO]: Garbage collectors: [G1 Young Generation, G1 Concurrent GC, G1 Old Generation]
-[23:22:14] [Server thread/WARN]: Distant Horizons: G1 Garbage collector detected.
-This can cause FPS stuttering. 
-It's recommended to use a concurrent garbage collector 
-like ZGC (Java 21+) or Shenandoah (Java 8 through 17) 
-for a smoother experience.
-[23:22:14] [Server thread/INFO]: Running Delayed setup...
-[23:22:14] [Server thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
-[23:22:14] [Server thread/INFO]: Checking for Distant Horizons update
-[23:22:14] [Server thread/INFO]: Distant Horizons already up to date.
-[23:22:14] [Server thread/INFO]: Distant Horizons server Initialized at 
-[23:22:14] [Server thread/INFO]: [Citadel] SurfaceRuleInitializer: Starting initialization...
-[23:22:14] [Server thread/INFO]: [Citadel] OVERWORLD rules registered: false
-[23:22:14] [Server thread/INFO]: [Citadel] Processing dimension: minecraft:overworld
-[23:22:14] [Server thread/INFO]: [Citadel] Processing dimension: minecraft:the_nether
-[23:22:14] [Server thread/INFO]: [Citadel] Processing dimension: minecraft:the_end
-[23:22:14] [Server thread/INFO]: [Citadel] SurfaceRuleInitializer: Initialization complete.
-[23:22:14] [Server thread/INFO]: Loading server configs...
-[23:22:14] [Server thread/INFO]: loaded team data: 2 known players, 2 teams total
-[23:22:14] [Server thread/INFO]: Started [DhServerWorld] of type [SERVER_ONLY].
-[23:22:14] [Server thread/INFO]: Loading XaeroLib common 2/2!
-[23:22:14] [Server thread/INFO]: Loading XaeroLib server 2/2!
-[23:22:14] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[23:22:14] [Server thread/INFO]: Loading properties
-[23:22:14] [Server thread/INFO]: Default game type: SURVIVAL
-[23:22:14] [Server thread/INFO]: Generating keypair
-[23:22:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:22:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:22:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:22:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:22:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:22:14] [Server thread/INFO]: Preparing level "world"
-[23:22:14] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(.\world\dimensions\minecraft\overworld\data)]].
-[23:22:15] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[23:22:15] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[23:22:15] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(.\world\dimensions\minecraft\the_nether\data;.\world\dimensions\minecraft\overworld\data)]].
-[23:22:15] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[23:22:15] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(.\world\dimensions\minecraft\the_end\data;.\world\dimensions\minecraft\the_nether\data;.\world\dimensions\minecraft\overworld\data)]].
-[23:22:15] [Server thread/INFO]: Loading 0 persistent chunks...
-[23:22:15] [Server thread/INFO]: Preparing spawn area: 100%
-[23:22:15] [Server thread/INFO]: Time elapsed: 13 ms
-[23:22:15] [Server thread/INFO]: Done (0.542s)! For help, type "help"
-[23:22:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:22:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:22:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:22:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:22:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:22:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:22:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:22:15] [Server thread/WARN]: Config betterfpsdist.json not found, recreating default
-[23:22:15] [Server thread/INFO]: Loaded config for: betterfpsdist.json
-[23:22:15] [Server thread/INFO]: Registered synced player tracker system: ftb_teams
-[23:22:15] [Server thread/INFO]: Registered synced player tracker system: ftb_teams
-[23:22:15] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[23:22:15] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[23:22:15] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Batch Chunk Generator initialized
-[23:22:15] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Creating world gen queue
-[23:22:15] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Created world gen queue
-[23:22:15] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Set world gen queue for level [minecraft:overworld].
-[23:22:15] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Batch Chunk Generator initialized
-[23:22:15] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Creating world gen queue
-[23:22:15] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Created world gen queue
-[23:22:15] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO]: Set world gen queue for level [minecraft:the_nether].
-[23:22:15] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Batch Chunk Generator initialized
-[23:22:15] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Creating world gen queue
-[23:22:15] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Created world gen queue
-[23:22:15] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO]: Set world gen queue for level [minecraft:the_end].
-[23:22:35] [Server thread/INFO]: lopesmathe (3c90268f-e5f2-3b22-9ee6-349d51ccdaa0) lost connection: Disconnected
-[23:22:51] [Server thread/INFO]: Stopping the server
-[23:22:51] [Server thread/INFO]: Stopping server
-[23:22:51] [Server thread/INFO]: Saving players
-[23:22:51] [Server thread/INFO]: Saving worlds
-[23:22:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:22:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:22:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:22:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:22:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:22:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:22:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:22:52] [Server thread/INFO]: Closing world gen queue
-[23:22:52] [Server thread/INFO]: Closing WorldGenerationQueue...
-[23:22:52] [Server thread/INFO]: Shutting down world generator thread pool...
-[23:22:52] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
-[23:22:52] [Server thread/INFO]: [BatchGenerator] shutting down...
-[23:22:52] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
-[23:22:52] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[23:22:52] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
-[23:22:52] [Server thread/INFO]: Closing world gen queue
-[23:22:52] [Server thread/INFO]: Closing WorldGenerationQueue...
-[23:22:52] [Server thread/INFO]: Shutting down world generator thread pool...
-[23:22:52] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
-[23:22:52] [Server thread/INFO]: [BatchGenerator] shutting down...
-[23:22:52] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
-[23:22:52] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[23:22:52] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
-[23:22:52] [Server thread/INFO]: Closing world gen queue
-[23:22:52] [Server thread/INFO]: Closing WorldGenerationQueue...
-[23:22:52] [Server thread/INFO]: Shutting down world generator thread pool...
-[23:22:52] [Server thread/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
-[23:22:52] [Server thread/INFO]: [BatchGenerator] shutting down...
-[23:22:52] [Server thread/INFO]: Closing [BatchGenerationEnvironment]
-[23:22:52] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[23:22:52] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
-[23:22:52] [Server thread/INFO]: Unloading server configs...
-[23:22:52] [Server thread/INFO]: Sending config unload event for goblintraders-entities.toml
-[23:22:52] [Server thread/INFO]: Finished unloading server configs
-[23:22:52] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
-[23:22:52] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
-[23:22:52] [Server thread/INFO]: Shutting down PriorityTaskPicker thread pool...
-[23:22:52] [Server thread/INFO]: Closing all [3] database connections...
-[23:22:52] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\overworld\data\DistantHorizons.sqlite]
-[23:22:52] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\the_nether\data\DistantHorizons.sqlite]
-[23:22:52] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\dimensions\minecraft\the_end\data\DistantHorizons.sqlite]
+[23:27:38] [main/INFO]: betterfpsdist mod initialized
+[23:27:38] [main/INFO]: Loading Collective version 8.22.
+[23:27:38] [main/INFO]: ConstructionWand says hello - may the odds be ever in your favor.
+[23:27:38] [main/INFO]: Loaded config for: cupboard.json
+[23:27:38] [main/INFO]: Daggers initialized
+[23:27:38] [main/INFO]: ExpandAbility here, who dis?
+[23:27:39] [main/INFO]: Loaded config farmersdelight-common.json
+[23:27:39] [main/INFO]: Reflections took 63 ms to scan 2 urls, producing 8 keys and 91 values
+[23:27:39] [main/INFO]: Hello Fabric world!
+[23:27:39] [main/INFO]: Hello Fabric world!
+[23:27:39] [main/INFO]: [KONKRETE] Loading v1.10.1 in server-side mode on FABRIC!
+[23:27:39] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[23:27:39] [main/INFO]: Villager trade reroll initialized for 26.1!
+[23:27:39] [main/ERROR]: No data fixer registered for chair_entity
+[23:27:39] [main/ERROR]: No data fixer registered for cushion_entity
+[23:27:39] [main/ERROR]: No data fixer registered for maple_boat
+[23:27:39] [main/ERROR]: No data fixer registered for maple_chest_boat
+[23:27:39] [main/ERROR]: No data fixer registered for ginkgo_boat
+[23:27:39] [main/ERROR]: No data fixer registered for ginkgo_chest_boat
+[23:27:39] [main/INFO]: Registering Mod Items for maple
+[23:27:39] [main/INFO]: Registering Glass Items for maple
+[23:27:39] [main/INFO]: Registering Maple Food Items for maple
+[23:27:39] [main/INFO]: Registering Maple armor items for maple
+[23:27:39] [main/INFO]: register Mod Nether Ores Blocksmaple
+[23:27:39] [main/ERROR]: No data fixer registered for maple_juicer_block_entity
+[23:27:39] [main/INFO]: register Maple Particle Types formaple
+[23:27:39] [main/INFO]: Registering Villagers maple
+[23:27:39] [main/INFO]: Registering Maple armor assets Keys for maple
+[23:27:39] [main/INFO]: Registering Custom Recipes for maple
+[23:27:39] [main/INFO]: Hello Fabric world!
+[23:27:40] [main/INFO]: Registering Mod Items for mutantszombies
+[23:27:40] [main/INFO]: Registering Sounds for mutantszombies
+[23:27:40] [main/INFO]: Hello Fabric world!
+[23:27:40] [main/INFO]: Origins 1.12.4 is initializing. Have fun!
+[23:27:40] [main/INFO]: Initializing Resource Bar API!
+[23:27:40] [main/INFO]: Loaded config resourcebarapi:server in 185ms
+[23:27:40] [main/INFO]: Initializing stamina!
+[23:27:40] [main/INFO]: Loaded config staminaattributes:server in 108ms
+[23:27:40] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23:27:40] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[23:27:40] [main/INFO]: Registered region maple:overworld_1 to index 1 for type OVERWORLD
+[23:27:40] [main/INFO]: Registered region maple:overworld_2 to index 2 for type OVERWORLD
+[23:27:40] [main/INFO]: Tom's Storage Setup starting
+[23:27:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[23:27:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[23:27:40] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[23:27:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[23:27:40] [main/ERROR]: Failed to start the minecraft server
+java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'alexsmobs' at 'com.github.alexthe666.alexsmobs.AlexsMobs'!
+	at net.fabricmc.loader.impl.FabricLoaderImpl.lambda$invokeEntrypoints$0(FabricLoaderImpl.java:409)
+	at net.fabricmc.loader.impl.util.ExceptionUtil.gatherExceptions(ExceptionUtil.java:33)
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:407)
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63)
+	at knot//net.minecraft.server.Main.main(Main.java:111)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69)
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/player/LocalPlayer
+	at knot//com.github.alexthe666.alexsmobs.network.AMNetworking.registerPayloadTypes(AMNetworking.java:35)
+	at knot//com.github.alexthe666.alexsmobs.AlexsMobs.onInitialize(AlexsMobs.java:43)
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:405)
+	... 7 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.player.LocalPlayer
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:239)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 10 more
