@@ -1,0 +1,35 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+item_use_cooldown_when_no_stamina = 20
+jumping_requires_stamina = true
+sprinting_requires_stamina = true
+swimming_requires_stamina = true
+jumping_in_water_requires_stamina = true
+attacking_requires_stamina = true
+block_breaking_requires_stamina = true
+breaking_zero_destroy_time_blocks_costs_stamina = false
+enable_attacking_stamina_cost = true
+enable_attack_blocking_stamina_cost = true
+players_can_exhaust = false
+exhausted_status_effect_identifier = "minecraft:slowness"
+
+[naturalPlayerAttributeValues]
+natural_stamina_regeneration = 1.0
+natural_max_stamina = 10.0
+natural_depleted_stamina_regeneration_delay_threshold = 80.0
+natural_stamina_regeneration_delay_threshold = 40.0
+natural_stamina_tick_threshold = 20.0
+natural_reserved_stamina = 0.0
+natural_item_use_stamina_cost = 0.05
+natural_sprinting_tick_stamina_cost = 0.05
+natural_sneaking_tick_stamina_cost = 0.05
+natural_walking_tick_stamina_cost = 0.0
+natural_swimming_tick_stamina_cost = 0.05
+natural_walking_underwater_tick_stamina_cost = 0.05
+natural_walking_in_water_tick_stamina_cost = 0.05
+natural_climbing_tick_stamina_cost = 0.05
+natural_action_stamina_cost_sprint_jumping = 1.0
+natural_action_stamina_cost_jumping = 1.0
+natural_action_stamina_cost_attack_blocking = 1.0
+natural_action_stamina_cost_attacking = 1.0
+natural_action_stamina_cost_block_breaking = 1.0
